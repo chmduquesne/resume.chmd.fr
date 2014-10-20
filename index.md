@@ -11,16 +11,25 @@ Christophe-Marie Duquesne
 Corporate Experience
 --------------------
 
-Since 2013
+Since June 2014
+:   *Data Scientist for [Amadeus Travel Intelligence](http://www.amadeus.com)*
+    (Munich, Germany).
+
+    Implemented an authenticating proxy on top of nginx and lua.
+    Implemented generalized logging on our platform based on ELK and
+    HAproxy and deployed with chef.
+
+Nov 2013-Jun 2014
 :   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
     (Frankfurt am Main, Germany).
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    Hadoop-based Mining on Travel Industry Data. Implemented Flask web
+    services, shipped as debian package and continuously integrated with
+    Jenkins.
 
 2009-2012
 :   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
+    [Amadeus](http://www.amadeus.com)* (Sophia
     Antipolis, France).
 
     Researched how to assign aircraft on an airline network in the most
