@@ -17,7 +17,7 @@ Since June 2014
 
     Implemented an authenticating proxy on top of nginx and lua.
     Implemented generalized logging on our platform based on ELK and
-    HAproxy and deployed with chef.
+    HAproxy and deployed with chef. Various Hadoop based tasks.
 
 Nov 2013-Jun 2014
 :   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
