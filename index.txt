@@ -4,7 +4,7 @@ Christophe-Marie Duquesne
 * * * * *
 
   Specialties: C++, Python, Linux, Operations Research  
-   Doctor in Computer Science and Mathematics
+   Doctor in Applied Mathematics and Computer Science
 
 * * * * *
 
@@ -15,12 +15,12 @@ Since June 2014
     Data Scientist for Amadeus Travel Intelligence | Germany (Munich,
     Germany).
 
-    Participated in the general architecture of the Travel Intelligence
-    platform and in the organization of devops activities, suggesting
-    and implementing various improvements. Wrote an authenticating layer
-    on top of nginx and lua. Automated logs of every requests with ELK
-    and HAproxy (deployed with chef). Worked on the redesign of a large
-    scale model for estimating passenger traffic over airline networks.
+    Participated in the architecture of the Travel Intelligence platform
+    and in the organization of devops activities. Wrote an
+    authenticating layer on top of nginx and lua. Automated logs of
+    every requests with ELK and HAproxy (deployed with chef). Worked on
+    the redesign of a large scale model for estimating passenger traffic
+    over airline networks.
 
 Nov 2013-Jun 2014
     Data Scientist for Airconomy (Frankfurt am Main, Germany).
