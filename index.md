@@ -12,7 +12,7 @@ Corporate Experience
 --------------------
 
 Since June 2014
-:   *Data Scientist for [Amadeus Travel Intelligence](http://www.amadeus.com)*
+:   *Data Scientist for [Amadeus Travel Intelligence | Germany](http://www.amadeus.com)*
     (Munich, Germany).
 
     Participated in the general architecture of the team's platform,
