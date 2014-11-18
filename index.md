@@ -15,9 +15,12 @@ Since June 2014
 :   *Data Scientist for [Amadeus Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Implemented an authenticating proxy on top of nginx and lua.
-    Implemented generalized logging on our platform based on ELK and
-    HAproxy and deployed with chef. Various Hadoop based tasks.
+    Participated in the general architecture of the team's platform,
+    suggesting and implementing various improvements. Implemented an
+    authenticating layer on top of nginx and lua. Implemented generalized
+    logging based on ELK and HAproxy, deployed with chef. Participated in
+    organizing devops activities. Worked on the redesign of a large scale
+    model for estimating passenger traffic over airline networks.
 
 Nov 2013-Jun 2014
 :   *Data Scientist for [Airconomy](https://www.airconomy.com/)*

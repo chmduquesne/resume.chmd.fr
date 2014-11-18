@@ -1,38 +1,36 @@
+Christophe-Marie Duquesne
+=========================
 
+* * * * *
 
-CHRISTOPHE-MARIE DUQUESNE
-
-
-------------------------------------------------------------------------
-
-  Specialties: C++, Python, Linux, Operations Research
+  Specialties: C++, Python, Linux, Operations Research  
    Doctor in Computer Science and Mathematics
 
-------------------------------------------------------------------------
-
+* * * * *
 
 Corporate Experience
+--------------------
 
 Since June 2014
+    Data Scientist for Amadeus Travel Intelligence (Munich, Germany).
 
-    _Data Scientist for Amadeus Travel Intelligence_ (Munich, Germany).
-
-    Implemented an authenticating proxy on top of nginx and lua.
-    Implemented generalized logging on our platform based on ELK and
-    HAproxy and deployed with chef. Various Hadoop based tasks.
+    Participated in the general architecture of the team’s platform,
+    suggesting and implementing various improvements. Implemented an
+    authenticating layer on top of nginx and lua. Implemented
+    generalized logging based on ELK and HAproxy, deployed with chef.
+    Participated in organizing devops activities. Worked on the redesign
+    of a large scale model for estimating passenger traffic over airline
+    networks.
 
 Nov 2013-Jun 2014
-
-    _Data Scientist for Airconomy_ (Frankfurt am Main, Germany).
+    Data Scientist for Airconomy (Frankfurt am Main, Germany).
 
     Hadoop-based Mining on Travel Industry Data. Implemented Flask web
     services, shipped as debian package and continuously integrated with
     Jenkins.
 
 2009-2012
-
-    _PhD in Operations Research with Amadeus_ (Sophia Antipolis,
-    France).
+    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
 
     Researched how to assign aircraft on an airline network in the most
     efficient way. I authored several projects, including a C++ solver,
@@ -41,21 +39,19 @@ Nov 2013-Jun 2014
     further improving my communication and public speaking skills.
 
 2008 (3 months)
-
-    _Internship at Rio Tinto Alcan_ (Clermont Ferrand, France).
+    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
 
     Co-authored a C++ library for optimizing the revenue of a metal
     factory. This work was published in the corporate journal of the
     company.
 
 2007 (3 months)
-
-    _Internship at GE Healthcare_ (Paris, France).
+    Internship at GE Healthcare (Paris, France).
 
     Elaborated an UML spec for the refactoring of 20.000 lines of C++.
 
-
 Selected Open Source Contributions
+----------------------------------
 
 Python
     Contributor to pulp-or, a linear programming Python library. Author
@@ -84,12 +80,11 @@ Misc
 Linux
     My daily operating system: I blog about it sometimes.
 
-
 Education
+---------
 
 2009-2012
-
-    _PhD in Mathematics and Computer Science at G-SCOP Laboratory_
+    PhD in Mathematics and Computer Science at G-SCOP Laboratory
     (Grenoble, France).
 
     Title: Integration of Fleet Deployment and of Passenger Service in
@@ -98,21 +93,19 @@ Education
     Briant. Defended in January 2013.
 
 2005-2009
-
-    _MS in Computer Science in ENSIMAG_ (Grenoble, France).
+    MS in Computer Science in ENSIMAG (Grenoble, France).
 
     Top French school of Applied Mathematics and Computer Science with
     highly selective recruitment.
 
 2002-2005
-
-    _Preparatory classes in Lycée Thiers_ (Marseille, France).
+    Preparatory classes in Lycée Thiers (Marseille, France).
 
     Mathematics and Physics courses before a national competitive
     examination to Grandes Écoles.
 
-
 Activities and interests
+------------------------
 
 Hobbies
     I like travelling. I backpacked in 13 countries in Eastern Europe
@@ -125,7 +118,7 @@ Activities
     I was the president of the grand cercle, one of the largest French
     campus student associations (5.000 members) during university.
 
-------------------------------------------------------------------------
+* * * * *
 
-  chmd@chmd.fr • +49 157 530 431 00 • 29 years old
+  chmd@chmd.fr • +49 157 530 431 00 • 29 years old  
    Einsteinstr. 129 - 81675 München, GERMANY
