@@ -7,6 +7,19 @@
   <title></title>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="style.css" type="text/css" />
+  <script>
+  window.onload = function(){
+      // compute my age
+      var birthday = Date.parse("January 13, 1985 00:00:00")
+      var ageDifMs = Date.now() - birthday;
+      var ageDate = new Date(ageDifMs);
+      var myAge = Math.abs(ageDate.getUTCFullYear() - 1970);
+  
+      // brutal, but for such a small document, I don't care
+      // replace the placeholder
+      document.body.innerHTML = document.body.innerHTML.replace("{{ MYAGE }}", myAge);
+  }
+  </script>
 </head>
 <body>
 <h1 id="christophe-marie-duquesne">Christophe-Marie Duquesne</h1>
@@ -93,7 +106,7 @@
 h='&#x63;&#104;&#x6d;&#100;&#46;&#102;&#114;';a='&#64;';n='&#x63;&#104;&#x6d;&#100;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 // -->
-</script><noscript>&#x63;&#104;&#x6d;&#100;&#32;&#x61;&#116;&#32;&#x63;&#104;&#x6d;&#100;&#32;&#100;&#x6f;&#116;&#32;&#102;&#114;</noscript> • +49 157 530 431 00 • 29 years old<br /> Einsteinstr. 129 - 81675 München, GERMANY</p>
+</script><noscript>&#x63;&#104;&#x6d;&#100;&#32;&#x61;&#116;&#32;&#x63;&#104;&#x6d;&#100;&#32;&#100;&#x6f;&#116;&#32;&#102;&#114;</noscript> • +49 157 530 431 00 • {{ MYAGE }} years old<br /> Einsteinstr. 129 - 81675 München, GERMANY</p>
 </blockquote>
 </body>
 </html>
