@@ -3,8 +3,8 @@ Christophe-Marie Duquesne
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Applied Mathematics and Computer Science
+>  Software engineer\
+>  Python, Golang, C++, Linux, Operations Research
 
 ----
 
@@ -15,12 +15,12 @@ Since June 2014
 :   *Data Scientist for [Amadeus Travel Intelligence | Germany](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Participated in the architecture of the Travel Intelligence platform
-    and in the organization of devops activities. Wrote an authenticating
-    layer on top of nginx and lua. Automated logs of every requests with
-    ELK and HAproxy (deployed with chef). Worked on the redesign of a
-    large scale model for estimating passenger traffic over airline
-    networks.
+    Designed (nginx+lua) an http authentication layer allowing webservices
+    to be written in different programming languages and yet be
+    authenticated against the same user database. Ensured that every
+    request to every server got logged in Elastic Search in real time.
+    Worked on the redesign of a large scale mathematical model for
+    estimating passenger traffic over airline networks.
 
 Nov 2013-Jun 2014
 :   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
@@ -36,10 +36,10 @@ Nov 2013-Jun 2014
     Antipolis, France).
 
     Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    efficient way. Authored a C++ solver, a Python suite of 20+ command
+    line tools, and Hadoop data mining scripts. Worked as a teaching
+    assistant at the university and further improved my communication and
+    public speaking skills.
 
 2008 (3 months)
 :   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
@@ -61,10 +61,17 @@ Selected Open Source Contributions
 
 Python
 :   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
+    linear programming Python library. Author of
+    [flasfka](https://github.com/travel-intelligence/flasfka), an http
+    bridge for posting/getting messages to Apache Kafka.  Small tools,
+    like [michel](https://github.com/chmduquesne/michel), a command line
+    program providing bidirectionnal synchronization of google tasks with
+    text files.
+
+Golang
+:   Author of
+    [github.com/chmduquesne/rollinghash/adler32](https://godoc.org/github.com/chmduquesne/rollinghash),
+    a rolling version of the adler32 hash.
 
 C++
 :   Author of
@@ -75,15 +82,14 @@ C++
 C
 :   Author of
     [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
+    set of proxy libraries targeting cplex, gurobi and xpress. Author of
     [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
+    distributed FUSE file system based on git (unfinished).
 
 Java
 :   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
+    android application allowing phone control via gtalk (10.000+
+    downloads, forked 50 times on googlecode). It was then successfully handed
     over to [other developers](http://code.google.com/p/gtalksms/).
 
 Misc

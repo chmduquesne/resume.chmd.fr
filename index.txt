@@ -1,62 +1,75 @@
-Christophe-Marie Duquesne
-=========================
 
-* * * * *
 
-  Specialties: C++, Python, Linux, Operations Research  
-   Doctor in Applied Mathematics and Computer Science
+CHRISTOPHE-MARIE DUQUESNE
 
-* * * * *
+
+------------------------------------------------------------------------
+
+  Software engineer
+   Python, Golang, C++, Linux, Operations Research
+
+------------------------------------------------------------------------
+
 
 Corporate Experience
---------------------
 
 Since June 2014
-    Data Scientist for Amadeus Travel Intelligence | Germany (Munich,
+
+    _Data Scientist for Amadeus Travel Intelligence | Germany_ (Munich,
     Germany).
 
-    Participated in the architecture of the Travel Intelligence platform
-    and in the organization of devops activities. Wrote an
-    authenticating layer on top of nginx and lua. Automated logs of
-    every requests with ELK and HAproxy (deployed with chef). Worked on
-    the redesign of a large scale model for estimating passenger traffic
-    over airline networks.
+    Designed (nginx+lua) an http authentication layer allowing
+    webservices to be written in different programming languages and yet
+    be authenticated against the same user database. Ensured that every
+    request to every server got logged in Elastic Search in real time.
+    Worked on the redesign of a large scale mathematical model for
+    estimating passenger traffic over airline networks.
 
 Nov 2013-Jun 2014
-    Data Scientist for Airconomy (Frankfurt am Main, Germany).
+
+    _Data Scientist for Airconomy_ (Frankfurt am Main, Germany).
 
     Hadoop-based Mining on Travel Industry Data. Implemented Flask web
     services, shipped as debian package and continuously integrated with
     Jenkins.
 
 2009-2012
-    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
+
+    _PhD in Operations Research with Amadeus_ (Sophia Antipolis,
+    France).
 
     Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    efficient way. Authored a C++ solver, a Python suite of 20+ command
+    line tools, and Hadoop data mining scripts. Worked as a teaching
+    assistant at the university and further improved my communication
+    and public speaking skills.
 
 2008 (3 months)
-    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
+
+    _Internship at Rio Tinto Alcan_ (Clermont Ferrand, France).
 
     Co-authored a C++ library for optimizing the revenue of a metal
     factory. This work was published in the corporate journal of the
     company.
 
 2007 (3 months)
-    Internship at GE Healthcare (Paris, France).
+
+    _Internship at GE Healthcare_ (Paris, France).
 
     Elaborated an UML spec for the refactoring of 20.000 lines of C++.
 
+
 Selected Open Source Contributions
-----------------------------------
 
 Python
     Contributor to pulp-or, a linear programming Python library. Author
-    of small tools, like michel, a command line program providing
+    of flasfka, an http bridge for posting/getting messages to Apache
+    Kafka. Small tools, like michel, a command line program providing
     bidirectionnal synchronization of google tasks with text files.
+
+Golang
+    Author of github.com/chmduquesne/rollinghash/adler32, a rolling
+    version of the adler32 hash.
 
 C++
     Author of yaposib, a Python binding to COIN-OSI that is now
@@ -64,12 +77,12 @@ C++
 
 C
     Author of lazylpsolverlibs, a set of proxy libraries targeting
-    cplex, gurobi and xpress. I also started writing sharebox, a
-    distributed FUSE file system based on git.
+    cplex, gurobi and xpress. Author of sharebox, a distributed FUSE
+    file system based on git (unfinished).
 
 Java
     Author of talkmyphone, an android application allowing phone control
-    via gtalk. It had 10.000+ downloads, and was forked 50 times. It was
+    via gtalk (10.000+ downloads, forked 50 times on googlecode). It was
     then successfully handed over to other developers.
 
 Misc
@@ -80,11 +93,12 @@ Misc
 Linux
     My daily operating system: I blog about it sometimes.
 
+
 Education
----------
 
 2009-2012
-    PhD in Mathematics and Computer Science at G-SCOP Laboratory
+
+    _PhD in Mathematics and Computer Science at G-SCOP Laboratory_
     (Grenoble, France).
 
     Title: Integration of Fleet Deployment and of Passenger Service in
@@ -93,19 +107,21 @@ Education
     Briant. Defended in January 2013.
 
 2005-2009
-    MS in Computer Science in ENSIMAG (Grenoble, France).
+
+    _MS in Computer Science in ENSIMAG_ (Grenoble, France).
 
     Top French school of Applied Mathematics and Computer Science with
     highly selective recruitment.
 
 2002-2005
-    Preparatory classes in Lycée Thiers (Marseille, France).
+
+    _Preparatory classes in Lycée Thiers_ (Marseille, France).
 
     Mathematics and Physics courses before a national competitive
     examination to Grandes Écoles.
 
+
 Activities and interests
-------------------------
 
 Hobbies
     I like travelling. I backpacked in 13 countries in Eastern Europe
@@ -118,7 +134,7 @@ Activities
     I was the president of the grand cercle, one of the largest French
     campus student associations (5.000 members) during university.
 
-* * * * *
+------------------------------------------------------------------------
 
-  chmd@chmd.fr • +49 157 530 431 00 • {{ MYAGE }} years old  
+  chmd@chmd.fr • +49 157 530 431 00 • {{ MYAGE }} years old
    Einsteinstr. 129 - 81675 München, GERMANY
