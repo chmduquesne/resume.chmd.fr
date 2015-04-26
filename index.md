@@ -3,32 +3,22 @@ Christophe-Marie Duquesne
 
 ----
 
->  Software engineer\
->  Python, Golang, C++, Linux, Operations Research
+>  Software engineer, Doctor in Applied Mathematics\
+>  Python, C++, Linux
 
 ----
 
 Corporate Experience
 --------------------
 
-Since June 2014
-:   *Data Scientist for [Amadeus Travel Intelligence | Germany](http://www.amadeus.com)*
+June 2014 - Now
+:   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Designed (nginx+lua) an http authentication layer allowing webservices
-    to be written in different programming languages and yet be
-    authenticated against the same user database. Ensured that every
-    request to every server got logged in Elastic Search in real time.
-    Worked on the redesign of a large scale mathematical model for
-    estimating passenger traffic over airline networks.
-
-Nov 2013-Jun 2014
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
-
-    Hadoop-based Mining on Travel Industry Data. Implemented Flask web
-    services, shipped as debian package and continuously integrated with
-    Jenkins.
+    Hadoop-based Mining on Travel Industry Data (Max 1 PetaByte so far).
+    Wrote Flask web services, shipped as debian package and continuously
+    integrated with Jenkins. Participated in various devops tasks: log
+    collection, user authentication, transfer between data centers.
 
 2009-2012
 :   *PhD in Operations Research with
@@ -46,8 +36,7 @@ Nov 2013-Jun 2014
     (Clermont Ferrand, France).
 
     Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+    factory.
 
 2007 (3 months)
 :   *Internship at [GE
@@ -60,43 +49,48 @@ Selected Open Source Contributions
 ----------------------------------
 
 Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of
+:   Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
+    Programming library. Author of
     [flasfka](https://github.com/travel-intelligence/flasfka), an http
-    bridge for posting/getting messages to Apache Kafka.  Small tools,
-    like [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks with
-    text files.
+    bridge for posting/getting batches of messages to Apache Kafka. Author
+    of [persistentdicts](https://github.com/chmduquesne/persistentdicts),
+    a library exposing various databases with Python dict-like interfaces
+
+Lua
+:   Author of
+    [lighttpd-external-auth](https://lighttpd-external-auth.chmd.fr/), a
+    lighttpd magnet script allowing access control via mechanisms such as
+    openid.
 
 Golang
 :   Author of
     [github.com/chmduquesne/rollinghash/adler32](https://godoc.org/github.com/chmduquesne/rollinghash),
-    a rolling version of the adler32 hash.
+    a rolling version of the adler32 hash. Contributor to
+    [jackpal/gateway](https://github.com/jackpal/gateway), a library for
+    discovering the address of a LAN gateway used in
+    [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
 
 C++
 :   Author of
     [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
+    Python binding to [coin-Osi](https://projects.coin-or.org/Osi).
+    Awarded [full membership](http://www.coin-or.org/members.html) in the
+    coin-or foundation in return.
 
 C
 :   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. Author of
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git (unfinished).
+    [lazylpsolverlibs](https://github.com/chmduquesne/lazylpsolverlibs), a
+    set of proxy libraries targeting cplex, gurobi and xpress.
 
 Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
+:   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone), an
     android application allowing phone control via gtalk (10.000+
-    downloads, forked 50 times on googlecode). It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
+    downloads, forked 50 times on googlecode). It was then successfully
+    handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
 
 Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
+:   Ada, Bash, Makefile, m4, autotools, cmake... See my [github
+    résumé](http://resume.github.com/?chmduquesne).
 
 Linux
 :   My daily operating system: I [blog](http://blog.chmd.fr) about it
@@ -147,4 +141,5 @@ Activities
 ----
 
 > <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
->  Einsteinstr. 129 - 81675 München, GERMANY
+>  Einsteinstr. 129 - 81675 München, GERMANY\
+> [pdf version](index.pdf) • [txt version](index.txt) • [doc version](index.docx)
