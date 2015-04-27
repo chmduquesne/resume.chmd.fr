@@ -4,7 +4,7 @@ Christophe-Marie Duquesne
 ----
 
 >  Software engineer, Doctor in Applied Mathematics\
->  Python, C++, Linux\
+>  Python, C++, Linux
 
 ----
 
