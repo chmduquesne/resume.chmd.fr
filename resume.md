@@ -134,6 +134,6 @@ Activities
 
 ----
 
-> <chmd@chmd.fr> • +49 157 530 431 00 • 30 years old\
+> <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
 >  Einsteinstr. 129 - 81675 München, GERMANY\
 > [pdf version](index.pdf) • [txt version](index.txt) • [doc version](index.docx)

@@ -4,7 +4,7 @@ Christophe-Marie Duquesne
 * * * * *
 
   Software engineer, Doctor in Applied Mathematics  
-   Python, C++, Linux
+   Python, C++, Linux  
 
 * * * * *
 
@@ -44,8 +44,8 @@ Selected Open Source Contributions
 
 Python
     Contributor to pulp-or, a Linear Programming library. Author of
-    flasfka, an http bridge for posting/getting batches of messages to
-    Apache Kafka. Author of persistentdicts, a library exposing various
+    flasfka, an http bridge for posting/getting messages to Apache
+    Kafka. Author of persistentdicts, a library exposing various
     databases with Python dict-like interfaces
 
 Lua
@@ -95,12 +95,6 @@ Education
     Top French school of Applied Mathematics and Computer Science with
     highly selective recruitment.
 
-2002-2005
-    Preparatory classes in Lycée Thiers (Marseille, France).
-
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
-
 Activities and interests
 ------------------------
 
@@ -117,6 +111,6 @@ Activities
 
 * * * * *
 
-  chmd@chmd.fr • +49 157 530 431 00 • {{ MYAGE }} years old  
+  chmd@chmd.fr • +49 157 530 431 00 • 30 years old  
    Einsteinstr. 129 - 81675 München, GERMANY  
   pdf version • txt version • doc version
