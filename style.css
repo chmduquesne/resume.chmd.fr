@@ -53,7 +53,7 @@ dt {
     float: left;
     clear: left;
     width: 17%;
-    /*font-weight: bold;*/
+    font-weight: bold;
 }
 dd {
     margin-left: 17%;
