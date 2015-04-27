@@ -8,8 +8,9 @@ index.md: resume.md
 index.html: index.md style.css
 	pandoc --standalone -c style.css -H age.js --from markdown --to html -o index.html resume.md
 
-index.pdf: index.html
-	wkhtmltopdf index.html index.pdf
+index.pdf: index.md
+	pandoc --standalone --template style.tex -V papersize=A4 --from markdown --to context -o index.tex index.md
+	context index.tex
 
 index.docx: index.md
 	pandoc --from markdown --to docx -o index.docx index.md
@@ -18,4 +19,4 @@ index.txt: index.md
 	pandoc --standalone --smart --from markdown --to plain -o index.txt index.md
 
 clean:
-	rm -f *.html *.pdf *.docx *.txt index.md
+	rm -f *.html *.pdf *.docx *.txt index.md index.tex *.tuc *.log

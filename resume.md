@@ -11,7 +11,7 @@ Christophe-Marie Duquesne
 Corporate Experience
 --------------------
 
-June 2014 - Now
+November 2013-Now
 :   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
@@ -20,7 +20,7 @@ June 2014 - Now
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers.
 
-2009-2012
+2009-2013
 :   *PhD in Operations Research with
     [Amadeus](http://www.amadeus.com)* (Sophia
     Antipolis, France).
@@ -136,4 +136,6 @@ Activities
 
 > <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
 >  Einsteinstr. 129 - 81675 München, GERMANY\
-> [pdf version](index.pdf) • [txt version](index.txt) • [doc version](index.docx)
+> [pdf version](http://resume.chmd.fr/index.pdf) •
+> [txt version](http://resume.chmd.fr/index.txt) •
+> [doc version](http://resume.chmd.fr/index.docx)

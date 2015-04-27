@@ -11,7 +11,7 @@ Christophe-Marie Duquesne
 Corporate Experience
 --------------------
 
-June 2014 - Now
+November 2013-Now
     Data Scientist for Amadeus | Travel Intelligence (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Max 1 PetaByte so far).
@@ -19,7 +19,7 @@ June 2014 - Now
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers.
 
-2009-2012
+2009-2013
     PhD in Operations Research with Amadeus (Sophia Antipolis, France).
 
     Researched how to assign aircraft on an airline network in the most
