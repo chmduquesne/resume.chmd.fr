@@ -5,7 +5,7 @@ all: index.html index.pdf index.docx index.txt
 index.md: resume.md
 	sed 's/{{ MYAGE }}/${MYAGE}/' resume.md > index.md
 
-index.html: index.md style.css
+index.html: resume.md style.css
 	pandoc --standalone -c style.css -H age.js --from markdown --to html -o index.html resume.md
 
 index.pdf: index.md
