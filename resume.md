@@ -4,6 +4,10 @@ Christophe-Marie Duquesne
 ----
 
 >  Software engineer, Doctor in Applied Mathematics\
+>  \  
+>  I love to ship beautiful code, and I am looking for fun, ambitious
+>  projects.\
+>  \
 >  Python, C++, Linux
 
 ----
@@ -15,8 +19,8 @@ November 2013-Now
 :   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Hadoop-based Mining on Travel Industry Data (Max 1 PetaByte so far).
-    Wrote Flask web services, shipped as debian package and continuously
+    Hadoop-based Mining on Travel Industry Data (Max 1 PetaByte). Wrote
+    Flask web services, shipped as debian package and continuously
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers.
 
