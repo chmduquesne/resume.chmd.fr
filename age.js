@@ -1,10 +1,7 @@
 <script>
-// Use pandoc '-H <script>' to inject this in the document header
-//
-// If you read this, you are probably also interested in
-// https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html
-//
-// You read this code! Thank you, have a unicorn :)
+// Wow you are reading this code! Have a unicorn. If you like beer, you
+// should definitely check out the best blog article I ever wrote:
+// https://blog.chmd.fr/operations-research-and-beer-drinking.html
 //
 //          \
 //           \
@@ -29,22 +26,28 @@
 //                  ,.-' >.'
 //                 <.'_.''
 //                   <'
-
-
+//
+// The following snippet is meant to inject your age instead of the
+// placeholder {{ MYAGE }}.
+//
+// Use pandoc '-H <script>' to put it in the document header
 window.onload = function(){
     // compute my age
-    var birthday = Date.parse("January 13, 1985 00:00:00")
+    var birthday = Date.parse("January 13, 1985")
     var ageDiff = Date.now() - birthday;
     var msPerYear = 31536000000;
     var myAge = Math.floor(ageDiff / msPerYear);
 
     // Replace the placeholder
     //
-    // Pandoc does not offer an option to attach an html id to my age
-    // placeholder in the markdown source (without impacting the other
-    // generated formats), so the simplest option is to operate the
-    // replacement in the whole document. Not extremely elegant, but for
-    // such a small document, there is no performance issue.
+    // This resume is meant to be generated with pandoc (see
+    // https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html).
+    // Unfortunately, pandoc does not offer an easy option to put an html
+    // placeholder in the markdown source without messing too much with
+    // the other formats, so the simplest option is to operate the
+    // replacement in the whole document. For big documents, this is not
+    // recommended, but for a resume, there should not be any performance
+    // issue.
     document.body.innerHTML = document.body.innerHTML.replace("{{ MYAGE }}", myAge);
 }
 </script>
