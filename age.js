@@ -3,6 +3,33 @@
 //
 // If you read this, you are probably also interested in
 // https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html
+//
+// You read this code! Thank you, have a unicorn :)
+//
+//          \
+//           \
+//            \\
+//             \\
+//              >\/7
+//          _.-(6'  \
+//         (=___._/` \
+//              )  \ |
+//             /   / |
+//            /    > /
+//           j    < _\
+//       _.-' :      ``.
+//       \ r=._\        `.
+//      <`\\_  \         .`-.
+//       \ r-7  `-. ._  ' .  `\
+//        \`,      `-.`7  7)   )
+//         \/         \|  \'  / `-._
+//                    ||    .'
+//                     \\  (
+//                      >\  >
+//                  ,.-' >.'
+//                 <.'_.''
+//                   <'
+
 
 window.onload = function(){
     // compute my age
