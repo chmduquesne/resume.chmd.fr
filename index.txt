@@ -1,24 +1,25 @@
+Christophe-Marie Duquesne’s resume
+
 Christophe-Marie Duquesne
 =========================
 
 * * * * *
 
-  Software engineer, Doctor in Applied Mathematics  
-     I love to ship beautiful code, and I am looking for fun, ambitious
+  Software engineer, Doctor in Applied Mathematics    
+   I love to ship beautiful code, and I am looking for fun, ambitious
   projects.  
-    
-   Python, C++, Linux
+   Python, Linux
 
 * * * * *
 
 Corporate Experience
 --------------------
 
-November 2013-Now
+Since 2013
     Data Scientist for Amadeus | Travel Intelligence (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Max 1 PetaByte). Wrote
-    Flask web services, shipped as debian package and continuously
+    Flask web services, shipped as Debian packages and continuously
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers.
 
@@ -34,16 +35,12 @@ November 2013-Now
 2008 (3 months)
     Internship at Rio Tinto Alcan (Clermont Ferrand, France).
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory.
+    Authored a C++ library for optimizing the revenue of a metal
+    factory. The software was based on a Linear Programming model and
+    outperformed the existing in-house tool.
 
-2007 (3 months)
-    Internship at GE Healthcare (Paris, France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
+Open Source Contributions
+-------------------------
 
 Python
     Contributor to pulp-or, a Linear Programming library. Author of
@@ -53,9 +50,9 @@ Python
 
 Lua
     Author of lighttpd-external-auth, a lighttpd magnet script allowing
-    access control via mechanisms such as openid.
+    access control via mechanisms such as OpenId.
 
-Golang
+Go
     Author of github.com/chmduquesne/rollinghash/adler32, a rolling
     version of the adler32 hash. Contributor to jackpal/gateway, a
     library for discovering the address of a LAN gateway used in
@@ -75,10 +72,8 @@ Java
     then successfully handed over to other developers.
 
 Misc
-    Ada, Bash, Makefile, m4, autotools, cmake… See my github résumé.
-
-Linux
-    My daily operating system: I blog about it sometimes.
+    Experience with Linux, Ada, Bash, Makefile, m4, autotools, cmake…
+    Documented on my github account and my blog.
 
 Education
 ---------
@@ -87,10 +82,10 @@ Education
     PhD in Mathematics and Computer Science at G-SCOP Laboratory
     (Grenoble, France).
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by Semi Gabteni. Advisors: Denis Naddef, Olivier
-    Briant. Defended in January 2013.
+    Integration of Fleet Deployment and of Passenger Service in Airline
+    Schedule Management. Done at Amadeus, in the Operation Research team
+    led by Semi Gabteni. Advisors: Denis Naddef, Olivier Briant.
+    Defended in January 2013.
 
 2005-2009
     MS in Computer Science in ENSIMAG (Grenoble, France).
@@ -109,11 +104,12 @@ Sports
     Running, Cycling, Hiking. I also played rugby union for 7 years.
 
 Activities
-    I was the president of the grand cercle, one of the largest French
+    I was the president of the Grand Cercle, one of the largest French
     campus student associations (5.000 members) during university.
 
 * * * * *
 
   chmd@chmd.fr • +49 157 530 431 00 • 30 years old  
-   Einsteinstr. 129 - 81675 München, GERMANY  
-  pdf version • txt version • doc version
+   Einsteinstr. 129 81675 Munich, Germany  
+    
+   pdf version • txt version • doc version • html version

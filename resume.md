@@ -1,26 +1,29 @@
+% Christophe-Marie Duquesne's resume
+
 Christophe-Marie Duquesne
 =========================
 
 ----
 
->  Software engineer, Doctor in Applied Mathematics\
->  \  
+>  Software engineer, Doctor in Applied Mathematics \  
+> \
 >  I love to ship beautiful code, and I am looking for fun, ambitious
->  projects.\
+>  projects.
 >  \
->  Python, C++, Linux
+>  **[Python](https://warehouse.python.org/user/chm.duquesne/)**,
+>  **[Linux](https://git.chmd.fr/?p=archlinux-packages.git)**
 
 ----
 
 Corporate Experience
 --------------------
 
-November 2013-Now
+Since 2013
 :   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Max 1 PetaByte). Wrote
-    Flask web services, shipped as debian package and continuously
+    Flask web services, shipped as Debian packages and continuously
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers.
 
@@ -39,18 +42,12 @@ November 2013-Now
 :   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
     (Clermont Ferrand, France).
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory.
+    Authored a C++ library for optimizing the revenue of a metal factory.
+    The software was based on a Linear Programming model and outperformed
+    the existing in-house tool.
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
+Open Source Contributions
+-------------------------
 
 Python
 :   Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
@@ -64,11 +61,11 @@ Lua
 :   Author of
     [lighttpd-external-auth](https://lighttpd-external-auth.chmd.fr/), a
     lighttpd magnet script allowing access control via mechanisms such as
-    openid.
+    OpenId.
 
-Golang
+Go
 :   Author of
-    [github.com/chmduquesne/rollinghash/adler32](https://godoc.org/github.com/chmduquesne/rollinghash),
+    [github.com/chmduquesne/rollinghash/adler32](https://github.com/chmduquesne/rollinghash),
     a rolling version of the adler32 hash. Contributor to
     [jackpal/gateway](https://github.com/jackpal/gateway), a library for
     discovering the address of a LAN gateway used in
@@ -93,12 +90,10 @@ Java
     handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
 
 Misc
-:   Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne).
+:   Experience with Linux, Ada, Bash, Makefile, m4, autotools, cmake...
+    Documented on my [github](http://github.com/chmduquesne) account and my
+    [blog](http://blog.chmd.fr).
 
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
 
 Education
 ---------
@@ -107,13 +102,14 @@ Education
 :   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
     (Grenoble, France).
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
+    [Integration of Fleet Deployment and of Passenger Service in
+    Airline Schedule
+    Management](https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf).
+    Done at Amadeus, in the Operation Research team led by [Semi
     Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
     Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/).
-    Defended in January 2013.
+    Briant](http://www.g-scop.inpg.fr/~brianto/). Defended in January
+    2013.
 
 2005-2009
 :   *MS in Computer Science in ENSIMAG* (Grenoble, France).
@@ -132,14 +128,16 @@ Sports
 :   Running, Cycling, Hiking. I also played rugby union for 7 years.
 
 Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
+:   I was the president of the [Grand
+    Cercle](http://www.grandcercle.org), one of the largest French
     campus student associations (5.000 members) during university.
 
 ----
 
-> <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
->  Einsteinstr. 129 - 81675 München, GERMANY\
-> [pdf version](http://resume.chmd.fr/index.pdf) •
-> [txt version](http://resume.chmd.fr/index.txt) •
-> [doc version](http://resume.chmd.fr/index.docx)
+>  <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
+>  Einsteinstr. 129 81675 Munich, Germany\
+>  \
+>  [pdf version](http://resume.chmd.fr/index.pdf) •
+>  [txt version](http://resume.chmd.fr/index.txt) •
+>  [doc version](http://resume.chmd.fr/index.docx) •
+>  [html version](http://resume.chmd.fr/index.html)

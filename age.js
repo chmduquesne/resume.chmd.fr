@@ -1,13 +1,23 @@
 <script>
+// Use pandoc '-H <script>' to inject this in the document header
+//
+// If you read this, you are probably also interested in
+// https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html
+
 window.onload = function(){
     // compute my age
     var birthday = Date.parse("January 13, 1985 00:00:00")
-    var ageDifMs = Date.now() - birthday;
-    var ageDate = new Date(ageDifMs);
-    var myAge = Math.abs(ageDate.getUTCFullYear() - 1970);
+    var ageDiff = Date.now() - birthday;
+    var msPerYear = 31536000000;
+    var myAge = Math.floor(ageDiff / msPerYear);
 
-    // brutal, but for such a small document, I don't care
-    // replace the placeholder
+    // Replace the placeholder
+    //
+    // Pandoc does not offer an option to attach an html id to my age
+    // placeholder in the markdown source (without impacting the other
+    // generated formats), so the simplest option is to operate the
+    // replacement in the whole document. Not extremely elegant, but for
+    // such a small document, there is no performance issue.
     document.body.innerHTML = document.body.innerHTML.replace("{{ MYAGE }}", myAge);
 }
 </script>
