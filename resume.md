@@ -91,7 +91,7 @@ Misc
 :   Experience with [Arch
     Linux](https://git.chmd.fr/?p=archlinux-packages.git), Ada, Bash,
     Makefile, m4, autotools, cmake...  See my
-    [github](http://github.com/chmduquesne) account my
+    [github](http://github.com/chmduquesne) account and my
     [blog](http://blog.chmd.fr).
 
 
