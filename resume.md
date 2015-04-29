@@ -10,8 +10,8 @@
 > I am French, living in Munich and looking for a job over there. I am
 > after ambitious projects that will challenge me and allow me to grow my
 > skills. I like to ship clean, reliable, continuously deployed code. I am
-> a Vim user, a Belgium beer lover, and I have a bad taste when it comes
-> to movies.
+> a Vim user, a Belgium beer lover, and I occasionally display shitty
+> movie tastes.
 
 ----
 
