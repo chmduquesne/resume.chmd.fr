@@ -1,7 +1,4 @@
-% Christophe-Marie Duquesne's resume
-
-Christophe-Marie Duquesne
-=========================
+% Christophe-Marie Duquesne
 
 ----
 

@@ -16,11 +16,11 @@ body {
     padding: 10px 10px 10px 10px;
 }
 
-/* remove the title that pandoc added, I don't want to start my document
- * with a <h1> block */
+/*
 .title {
     display: none;
 }
+*/
 
 /* Title of the resume */
 h1 {
