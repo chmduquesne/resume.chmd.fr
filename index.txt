@@ -72,7 +72,7 @@ Java
 
 Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
-    cmake… See my github account my blog.
+    cmake… See my github account and my blog.
 
 Education
 ---------
