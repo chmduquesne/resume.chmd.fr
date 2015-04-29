@@ -97,7 +97,8 @@ Education
 ---------
 
 2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
+:   *PhD in Mathematics and Computer Science at [G-SCOP
+    Laboratory](http://www.g-scop.grenoble-inp.fr/)*
     (Grenoble, France).
 
     [Integration of Fleet Deployment and of Passenger Service in
