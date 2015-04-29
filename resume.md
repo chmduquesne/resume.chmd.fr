@@ -4,8 +4,7 @@
 
 > Software engineer, Doctor in Applied Mathematics
 > \
-> **[Python](https://warehouse.python.org/user/chm.duquesne/)**,
-> **[Linux](https://git.chmd.fr/?p=archlinux-packages.git)**
+> **Python**, **Linux**
 > \
 > \
 > I am looking for ambitious projects that will challenge me and allow me
@@ -53,7 +52,7 @@ Python
     [flasfka](https://github.com/travel-intelligence/flasfka), an http
     bridge for posting/getting messages to Apache Kafka. Author of
     [persistentdicts](https://github.com/chmduquesne/persistentdicts), a
-    library exposing various databases with Python dict-like interfaces
+    library exposing various databases with Python dict-like interfaces.
 
 Lua
 :   Author of
@@ -88,8 +87,10 @@ Java
     handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
 
 Misc
-:   Experience with Linux, Ada, Bash, Makefile, m4, autotools, cmake...
-    See my [github](http://github.com/chmduquesne) account my
+:   Experience with [Arch
+    Linux](https://git.chmd.fr/?p=archlinux-packages.git), Ada, Bash,
+    Makefile, m4, autotools, cmake...  See my
+    [github](http://github.com/chmduquesne) account my
     [blog](http://blog.chmd.fr).
 
 

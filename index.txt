@@ -44,7 +44,7 @@ Python
     Contributor to pulp-or, a Linear Programming library. Author of
     flasfka, an http bridge for posting/getting messages to Apache
     Kafka. Author of persistentdicts, a library exposing various
-    databases with Python dict-like interfaces
+    databases with Python dict-like interfaces.
 
 Lua
     Author of lighttpd-external-auth, a lighttpd magnet script allowing
@@ -70,8 +70,8 @@ Java
     then successfully handed over to other developers.
 
 Misc
-    Experience with Linux, Ada, Bash, Makefile, m4, autotools, cmake…
-    See my github account my blog.
+    Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
+    cmake… See my github account my blog.
 
 Education
 ---------
