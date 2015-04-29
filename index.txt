@@ -6,9 +6,9 @@ Christophe-Marie Duquesne
   Python, Linux  
     
   I am looking for ambitious projects that will challenge me and allow
-  me to grow my skills. My goal is to participate in pushing modern
-  Software Engineering forward, shipping clean, beautiful, reliable
-  code.
+  me to grow my skills. I like to ship clean, beautiful, reliable code.
+  My goal is to participate in pushing modern Software Engineering
+  forward.
 
 * * * * *
 
