@@ -2,10 +2,11 @@ Christophe-Marie Duquesne
 
 * * * * *
 
-  Software engineer, Doctor in Applied Mathematics    
-   I love to ship beautiful code, and I am looking for fun, ambitious
-  projects.  
-   Python, Linux
+  Software engineer, Doctor in Applied Mathematics  
+  Python, Linux  
+    
+  I am looking for ambitious projects that will challenge me and allow
+  me to grow my skills.
 
 * * * * *
 
@@ -70,7 +71,7 @@ Java
 
 Misc
     Experience with Linux, Ada, Bash, Makefile, m4, autotools, cmake…
-    Documented on my github account and my blog.
+    See my github account my blog.
 
 Education
 ---------
@@ -107,6 +108,6 @@ Activities
 * * * * *
 
   chmd@chmd.fr • +49 157 530 431 00 • 30 years old  
-   Einsteinstr. 129 81675 Munich, Germany  
+  Einsteinstr. 129 81675 Munich, Germany  
     
-   pdf version • txt version • doc version • html version
+  pdf version • txt version • doc version • html version

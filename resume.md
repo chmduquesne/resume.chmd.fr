@@ -2,13 +2,14 @@
 
 ----
 
->  Software engineer, Doctor in Applied Mathematics \  
+> Software engineer, Doctor in Applied Mathematics
 > \
->  I love to ship beautiful code, and I am looking for fun, ambitious
->  projects.
->  \
->  **[Python](https://warehouse.python.org/user/chm.duquesne/)**,
->  **[Linux](https://git.chmd.fr/?p=archlinux-packages.git)**
+> **[Python](https://warehouse.python.org/user/chm.duquesne/)**,
+> **[Linux](https://git.chmd.fr/?p=archlinux-packages.git)**
+> \
+> \
+> I am looking for ambitious projects that will challenge me and allow me
+> to grow my skills.
 
 ----
 
@@ -88,7 +89,7 @@ Java
 
 Misc
 :   Experience with Linux, Ada, Bash, Makefile, m4, autotools, cmake...
-    Documented on my [github](http://github.com/chmduquesne) account and my
+    See my [github](http://github.com/chmduquesne) account my
     [blog](http://blog.chmd.fr).
 
 
@@ -131,10 +132,10 @@ Activities
 
 ----
 
->  <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
->  Einsteinstr. 129 81675 Munich, Germany\
->  \
->  [pdf version](http://resume.chmd.fr/index.pdf) •
->  [txt version](http://resume.chmd.fr/index.txt) •
->  [doc version](http://resume.chmd.fr/index.docx) •
->  [html version](http://resume.chmd.fr/index.html)
+> <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
+> Einsteinstr. 129 81675 Munich, Germany\
+> \
+> [pdf version](http://resume.chmd.fr/index.pdf) •
+> [txt version](http://resume.chmd.fr/index.txt) •
+> [doc version](http://resume.chmd.fr/index.docx) •
+> [html version](http://resume.chmd.fr/index.html)
