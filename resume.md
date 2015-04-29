@@ -133,7 +133,7 @@ Activities
 ----
 
 > <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
-> Einsteinstr. 129 81675 Munich, Germany\
+> Einsteinstr. 129, 81675 Munich, Germany\
 > \
 > [pdf version](http://resume.chmd.fr/index.pdf) •
 > [txt version](http://resume.chmd.fr/index.txt) •
