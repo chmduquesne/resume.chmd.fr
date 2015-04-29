@@ -8,7 +8,8 @@
 > \
 > \
 > I am looking for ambitious projects that will challenge me and allow me
-> to grow my skills.
+> to grow my skills. My goal is to participate in pushing modern Software
+> Engineering forward, shipping clean, beautiful, reliable code.
 
 ----
 
