@@ -2,7 +2,7 @@
 
 ----
 
-> Software engineer, Doctor in Applied Mathematics
+> Software Engineer, Doctor in Applied Mathematics
 > \
 > **Python**, **Linux**
 > \
