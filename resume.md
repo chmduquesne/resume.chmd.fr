@@ -7,9 +7,12 @@
 > **Python**, **Linux**
 > \
 > \
-> I am French, living in Munich. I am after ambitious projects that will
-> challenge me and allow me to grow my skills. I like to ship clean,
-> continuously deployed code. I am a Vim user and a Belgium beer lover.
+> I am a Computer Scientist primarily specialized in Operations Research,
+> the science of making decisions based on advanced analytical methods.
+> Over the years, I moved to Data Science, the discipline of extracting
+> knowledge out of data. At heart, I remain a Software Engineer, who likes
+> to ship code and build massively scalable architectures. I use Vim and I
+> love Belgium ale. I am French, living in Munich, and happy to relocate. 
 
 ----
 
