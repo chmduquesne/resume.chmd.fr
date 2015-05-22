@@ -6,10 +6,10 @@ Christophe-Marie Duquesne
   Python, Linux  
     
   I am a Computer Scientist, primarily specialized in Operations
-  Research and since recently in Data Science. At heart, I am a Software
-  Engineer, who likes to ship code and build scalable architectures. I
-  use Vim and I love Belgium ale. I am French, living in Munich, and
-  happy to relocate.
+  Research, and since recently, in Data Science. At heart, I am a
+  Software Engineer, who likes to ship code and build scalable
+  architectures. I use Vim and I love Belgium ale. I am French, living
+  in Munich, and happy to relocate.
 
 * * * * *
 
