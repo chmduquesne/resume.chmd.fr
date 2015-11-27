@@ -2,13 +2,10 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  Software Engineer, Data Scientist
-  PYTHON, LINUX
-  I am a Computer Scientist, primarily specialized in Operations
-  Research, and since recently, in Data Science. At heart, I am a
-  Software Engineer, who likes to ship code and build scalable
-  architectures. I use Vim and I love Belgium ale. I am French, living
-  in Munich, and happy to relocate.
+  OPERATIONS RESEARCH ANALYST
+  After a PhD in Operations Research, I evolved towards Data Science for
+  the Travel Industry. I believe in intelligent data driven decisions. I
+  am French, living in Munich.
 
 ------------------------------------------------------------------------
 
@@ -20,10 +17,11 @@ Since 2013
     _Data Scientist for Amadeus | Travel Intelligence_
     (Munich, Germany).
 
-    Hadoop-based Mining on Travel Industry Data (Max 1 Petabyte). Wrote
-    Flask web services, shipped as Debian packages and continuously
-    integrated with Jenkins. Participated in various devops tasks: log
-    collection, user authentication, transfer between data centers.
+    Hadoop-based Mining on Travel Industry Data (Up to 1 Petabyte).
+    Wrote Flask web services, shipped as Debian packages and
+    continuously integrated with Jenkins. Participated in various devops
+    tasks: log collection, user authentication, transfer between
+    data centers.
 
 2009-2013
 
@@ -48,10 +46,21 @@ Since 2013
 Open Source Contributions
 
 Python
-    Contributor to pulp-or, a Linear Programming library. Author of
-    flasfka, an http bridge for posting/getting messages to
-    Apache Kafka. Author of persistentdicts, a library exposing various
-    databases with Python dict-like interfaces.
+    Author of yaposib, a Python-C++ binding to coin-Osi. Awarded full
+    membership in the coin-or foundation in return. Contributor to
+    pulp-or, a Linear Programming library. Author of flasfka, an http
+    bridge for posting/getting messages to Apache Kafka. Author of
+    persistentdicts, a library exposing various databases with Python
+    dict-like interfaces.
+
+C
+    Author of lazylpsolverlibs, a set of proxy libraries targeting
+    cplex, gurobi and xpress.
+
+Java
+    Author of talkmyphone, an android application allowing phone control
+    via gtalk (10.000+ downloads, forked 50 times on googlecode). It was
+    then successfully handed over to other developers.
 
 Lua
     Author of lighttpd-external-auth, a lighttpd magnet script allowing
@@ -62,19 +71,6 @@ Go
     version of the adler32 hash. Contributor to jackpal/gateway, a
     library for discovering the address of a LAN gateway used in
     Tapei-Torrent.
-
-C++
-    Author of yaposib, a Python binding to coin-Osi. Awarded full
-    membership in the coin-or foundation in return.
-
-C
-    Author of lazylpsolverlibs, a set of proxy libraries targeting
-    cplex, gurobi and xpress.
-
-Java
-    Author of talkmyphone, an android application allowing phone control
-    via gtalk (10.000+ downloads, forked 50 times on googlecode). It was
-    then successfully handed over to other developers.
 
 Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,

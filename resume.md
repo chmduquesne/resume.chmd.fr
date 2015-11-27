@@ -2,15 +2,12 @@
 
 ----
 
-> Software Engineer, Data Scientist
-> \
-> **Python**, **Linux**
+> **Operations Research Analyst**
 > \
 > \
-> I am a Computer Scientist, primarily specialized in Operations Research,
-> and since recently, in Data Science. At heart, I am a Software Engineer,
-> who likes to ship code and build scalable architectures. I use Vim and I
-> love Belgium ale. I am French, living in Munich, and happy to relocate. 
+> After a PhD in Operations Research, I evolved towards Data Science for
+> the Travel Industry. I believe in intelligent data driven decisions.
+> I am French, living in Munich.
 
 ----
 
@@ -21,7 +18,7 @@ Since 2013
 :   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Hadoop-based Mining on Travel Industry Data (Max 1 Petabyte). Wrote
+    Hadoop-based Mining on Travel Industry Data (Up to 1 Petabyte). Wrote
     Flask web services, shipped as Debian packages and continuously
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers.
@@ -49,12 +46,28 @@ Open Source Contributions
 -------------------------
 
 Python
-:   Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
+:   Author of
+    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
+    Python-C++ binding to [coin-Osi](https://projects.coin-or.org/Osi).
+    Awarded [full membership](http://www.coin-or.org/members.html) in the
+    coin-or foundation in return.
+    Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
     Programming library. Author of
     [flasfka](https://github.com/travel-intelligence/flasfka), an http
     bridge for posting/getting messages to Apache Kafka. Author of
     [persistentdicts](https://github.com/chmduquesne/persistentdicts), a
     library exposing various databases with Python dict-like interfaces.
+
+C
+:   Author of
+    [lazylpsolverlibs](https://github.com/chmduquesne/lazylpsolverlibs), a
+    set of proxy libraries targeting cplex, gurobi and xpress.
+
+Java
+:   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone), an
+    android application allowing phone control via gtalk (10.000+
+    downloads, forked 50 times on googlecode). It was then successfully
+    handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
 
 Lua
 :   Author of
@@ -69,24 +82,6 @@ Go
     [jackpal/gateway](https://github.com/jackpal/gateway), a library for
     discovering the address of a LAN gateway used in
     [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to [coin-Osi](https://projects.coin-or.org/Osi).
-    Awarded [full membership](http://www.coin-or.org/members.html) in the
-    coin-or foundation in return.
-
-C
-:   Author of
-    [lazylpsolverlibs](https://github.com/chmduquesne/lazylpsolverlibs), a
-    set of proxy libraries targeting cplex, gurobi and xpress.
-
-Java
-:   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone), an
-    android application allowing phone control via gtalk (10.000+
-    downloads, forked 50 times on googlecode). It was then successfully
-    handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
 
 Misc
 :   Experience with [Arch
