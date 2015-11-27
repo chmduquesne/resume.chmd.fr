@@ -3,9 +3,9 @@ Christophe-Marie Duquesne
 ------------------------------------------------------------------------
 
   OPERATIONS RESEARCH ANALYST
-  After a PhD in Operations Research, I evolved towards Data Science for
-  the Travel Industry. I believe in intelligent data driven decisions. I
-  am French, living in Munich.
+  After a PhD in Operations Research, I went to Data Science for the
+  Travel Industry. I believe in intelligent data driven decisions. I am
+  French, living in Munich.
 
 ------------------------------------------------------------------------
 
@@ -17,11 +17,11 @@ Since 2013
     _Data Scientist for Amadeus | Travel Intelligence_
     (Munich, Germany).
 
-    Hadoop-based Mining on Travel Industry Data (Up to 1 Petabyte).
-    Wrote Flask web services, shipped as Debian packages and
-    continuously integrated with Jenkins. Participated in various devops
-    tasks: log collection, user authentication, transfer between
-    data centers.
+    Wrote backends for manipulating Travel Industry Data: Hadoop-based
+    transformations (Up to 1 Petabyte), Flask web services (shipped as
+    Debian packages and continuously integrated with Jenkins) and
+    various devops tasks (log collection, user authentication, transfer
+    between data centers).
 
 2009-2013
 
