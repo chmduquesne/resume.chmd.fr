@@ -19,7 +19,7 @@ Since 2013
 :   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Hadoop-based Mining on Travel Industry Data (Up to 1 Petabyte). Wrote
+    Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
     web services (Flask, Sqlite), shipped as Debian packages, continuously
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers (IBM
