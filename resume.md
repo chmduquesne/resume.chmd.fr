@@ -32,7 +32,7 @@ Since 2013
     Researched how to best assign aircraft on an airline network. Authored
     a C++ solver and a Python suite of 20+ command line tools (Cplex,
     Gurobi). Benchmark performed against real life data (mined with
-    Hadoop). Worked as a teaching assistant at the university and improved
+    Hadoop). Worked as a teaching assistant at the university, improving
     my communication and public speaking skills.
 
 2008 (3 months)
