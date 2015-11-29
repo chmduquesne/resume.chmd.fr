@@ -43,8 +43,6 @@ window.onload = function(){
 
     // Replace the placeholder
     //
-    // This resume is meant to be generated with pandoc (see
-    // https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html).
     // Unfortunately, pandoc does not offer an easy option to put an html
     // placeholder in the markdown source without messing too much with
     // the other formats, so the simplest option is to operate the
