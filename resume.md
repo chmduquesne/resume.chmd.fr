@@ -23,18 +23,18 @@ Since 2013
     Hadoop-based Mining on Travel Industry Data (Up to 1 Petabyte). Wrote
     web services (Flask, Sqlite), shipped as Debian packages, continuously
     integrated with Jenkins. Participated in various devops tasks: log
-    collection, user authentication, transfer between data centers (using
-    IBM Websphere MQ, Apache Kafka, Logstash).
+    collection, user authentication, transfer between data centers (IBM
+    WebSphere MQ, Apache Kafka, Logstash).
 
 2009-2013
 :   *PhD in Operations Research with [Amadeus](http://www.amadeus.com)*
     (Sophia Antipolis, France).
 
     Researched how to best assign aircraft on an airline network. Authored
-    a C++ solver (using Cplex), a Python suite of 20+ command line tools
-    (using Gurobi), and Hadoop data mining scripts. Worked as a teaching
-    assistant at the university and further improved my communication and
-    public speaking skills.
+    a C++ solver and a Python suite of 20+ command line tools (Cplex,
+    Gurobi). Benchmark were performed against real life data (mined with
+    Hadoop). Worked as a teaching assistant at the university and
+    improved my communication and public speaking skills.
 
 2008 (3 months)
 :   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
@@ -42,7 +42,7 @@ Since 2013
 
     Authored a C++ library for optimizing the revenue of a metal factory
     (Cplex). The software was based on a Linear Programming model and
-    outperformed the existing in-house tool.
+    consistently outperformed the existing in-house tool.
 
 Open Source Contributions
 -------------------------
