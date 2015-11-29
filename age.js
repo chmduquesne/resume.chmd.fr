@@ -1,12 +1,10 @@
 <script>
 // Wow you are reading the source!
 //
-// Did you know that this html resume was generated from markdown?
-// http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html
-//
-// By the way, if you like beer, you should definitely
-// check out the best blog article I ever wrote:
-// http://blog.chmd.fr/operations-research-and-beer-drinking.html
+// Since you are really into details, you should know that this resume was
+// generated from markdown with pandoc. I wrote a blog post about it
+// http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html. Go check
+// it out!
 //
 //          \
 //           \
@@ -32,8 +30,8 @@
 //                 <.'_.''
 //                   <'
 //
-// The following snippet is meant to inject your age instead of the
-// placeholder {{ MYAGE }}.
+// The following snippet is meant to inject my age instead of the
+// placeholder {{ MYAGE }}. More automation, less maintainance, yay!
 //
 // Use pandoc '-H <script>' to put it in the document header
 window.onload = function(){
