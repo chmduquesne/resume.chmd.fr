@@ -1,5 +1,10 @@
 <script>
-// Wow you are reading this code! If you like beer, you should definitely
+// Wow you are reading the source!
+//
+// Did you know that this html resume was generated from markdown?
+// http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html
+//
+// By the way, if you like beer, you should definitely
 // check out the best blog article I ever wrote:
 // http://blog.chmd.fr/operations-research-and-beer-drinking.html
 //
