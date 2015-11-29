@@ -5,9 +5,10 @@
 > **Operations Research Analyst**
 > \
 > \
-> After a PhD in Operations Research, I went to Data Science for the
-> Travel Industry. I believe in intelligent data driven decisions. I am
-> French, living in Munich.
+> Primarily a Software Engineer, I specialized in Operations Research, and
+> then went to Data Science. I believe in Data Driven Decisions and love
+> to build automated systems. I am French, living in Munich, vim user
+> and Belgium ale lover.
 
 ----
 
@@ -18,20 +19,19 @@ Since 2013
 :   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
     (Munich, Germany).
 
-    Wrote backends for manipulating Travel Industry Data: Hadoop-based
-    transformations (Up to 1 Petabyte), Flask web services (shipped as
-    Debian packages and continuously integrated with Jenkins) and various
-    devops tasks (log collection, user authentication, transfer between
-    data centers).
+    Hadoop-based Mining on Travel Industry Data (Up to 1 Petabyte). Wrote
+    web services (Flask, Sqlite), shipped as Debian packages, continuously
+    integrated with Jenkins. Participated in various devops tasks: log
+    collection, user authentication, transfer between data centers (using
+    IBM Websphere MQ, Apache Kafka, Logstash).
 
 2009-2013
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com)* (Sophia
-    Antipolis, France).
+:   *PhD in Operations Research with [Amadeus](http://www.amadeus.com)*
+    (Sophia Antipolis, France).
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. Authored a C++ solver, a Python suite of 20+ command
-    line tools, and Hadoop data mining scripts. Worked as a teaching
+    Researched how to best assign aircraft on an airline network. Authored
+    a C++ solver (using Cplex), a Python suite of 20+ command line tools
+    (using Gurobi), and Hadoop data mining scripts. Worked as a teaching
     assistant at the university and further improved my communication and
     public speaking skills.
 
@@ -39,9 +39,9 @@ Since 2013
 :   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
     (Clermont Ferrand, France).
 
-    Authored a C++ library for optimizing the revenue of a metal factory.
-    The software was based on a Linear Programming model and outperformed
-    the existing in-house tool.
+    Authored a C++ library for optimizing the revenue of a metal factory
+    (Cplex). The software was based on a Linear Programming model and
+    outperformed the existing in-house tool.
 
 Open Source Contributions
 -------------------------
