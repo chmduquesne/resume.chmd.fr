@@ -6,10 +6,9 @@
 > \
 > \
 > Primarily a Software Engineer, I specialized in Operations Research, and
-> then went to Data Science. I believe in Data Driven Decisions and love
-> to build automated systems. I am French, living in Munich, a vim user
-> and a [Belgium ale
-> lover](http://blog.chmd.fr/operations-research-and-beer-drinking.html).
+> then went to Data Science. I love data driven decision making. I am
+> French, living in Munich, a vim user and a [Belgium ale
+> enthusiast](http://blog.chmd.fr/operations-research-and-beer-drinking.html).
 
 ----
 
