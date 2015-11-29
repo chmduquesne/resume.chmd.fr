@@ -1,7 +1,7 @@
 <script>
-// Wow you are reading this code! Have a unicorn. If you like beer, you
-// should definitely check out the best blog article I ever wrote:
-// https://blog.chmd.fr/operations-research-and-beer-drinking.html
+// Wow you are reading this code! If you like beer, you should definitely
+// check out the best blog article I ever wrote:
+// http://blog.chmd.fr/operations-research-and-beer-drinking.html
 //
 //          \
 //           \
