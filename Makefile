@@ -7,6 +7,7 @@ index.md: resume.md
 
 index.html: resume.md style.css
 	pandoc --standalone -c style.css -H age.js --from markdown --to html -o index.html resume.md
+	linkchecker index.html
 
 index.pdf: index.md
 	pandoc --standalone --template style.tex -V papersize=A4 --from markdown --to context -o index.tex index.md
