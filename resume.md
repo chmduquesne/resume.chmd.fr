@@ -2,13 +2,12 @@
 
 ----
 
-> **Operations Research Analyst**
+> **Data Scientist**
 > \
 > \
 > Primarily a Software Engineer, I specialized in Operations Research, and
 > then in Data Science. I love data driven decision making. I am French,
-> living in Munich, a vim user and a [Belgium ale
-> enthusiast](http://blog.chmd.fr/operations-research-and-beer-drinking.html).
+> living in Munich.
 
 ----
 
@@ -118,7 +117,7 @@ Activities and interests
 ------------------------
 
 Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
+:   I like travelling. I backpacked in 14 countries in Eastern Europe
     and South East Asia.
 
 Sports
