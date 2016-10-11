@@ -6,6 +6,9 @@
 // http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html. Go check
 // it out!
 //
+// If you are interested in recruiting me, be sure to mention this
+// unicorn, that will get you my full attention.
+//
 //          \
 //           \
 //            \\
