@@ -137,5 +137,3 @@ Activities
 > [txt version](http://resume.chmd.fr/index.txt) •
 > [doc version](http://resume.chmd.fr/index.docx) •
 > [html version](http://resume.chmd.fr/index.html)
-> \
-> I prefer the email over other means of communication.
