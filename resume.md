@@ -5,9 +5,9 @@
 > **Data Scientist**
 > \
 > \
-> Primarily a Software Engineer, I specialized in Operations Research, and
-> then in Data Science. I love data driven decision making. I am French,
-> living in Munich.
+> Software Engineer who specialized in Operations Research, then Data
+> Science. In love with data driven decision making. French, living in
+> Munich.
 
 ----
 
@@ -22,7 +22,7 @@ Since 2013
     web services (Flask, Sqlite), shipped as Debian packages, continuously
     integrated with Jenkins. Participated in various devops tasks: log
     collection, user authentication, transfer between data centers (IBM
-    WebSphere MQ, Apache Kafka, Logstash).
+    WebSphere MQ, Apache Kafka, Logstash, Cloudera, Kerberos).
 
 2009-2013
 :   *PhD in Operations Research with [Amadeus](http://www.amadeus.com)*
