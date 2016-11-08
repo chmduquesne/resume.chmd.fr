@@ -1,30 +1,33 @@
 Christophe-Marie Duquesne
 
-* * * * *
+------------------------------------------------------------------------
 
-  Data Scientist  
-    
+  DATA SCIENTIST
   Software Engineer who specialized in Operations Research, then Data
   Science. In love with data driven decision making. French, living in
   Munich.
 
-* * * * *
+------------------------------------------------------------------------
+
 
 Corporate Experience
---------------------
 
 Since 2013
-    Data Scientist for Amadeus | Travel Intelligence (Munich, Germany).
+
+    _Data Scientist for Amadeus | Travel Intelligence_
+    (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
     web services (Flask, Sqlite), shipped as Debian packages,
     continuously integrated with Jenkins. Participated in various devops
     tasks: log collection, user authentication, transfer between data
-    centers (IBM WebSphere MQ, Apache Kafka, Logstash, Cloudera,
-    Kerberos).
+    centers (IBM WebSphere MQ, Apache Kafka, Logstash,
+    Cloudera, Kerberos).
 
 2009-2013
-    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
+
+    _PhD in Operations Research with Amadeus_ (Sophia
+    Antipolis, France).
 
     Researched how to best assign aircraft on an airline network.
     Authored a C++ solver and a Python suite of 20+ command line tools
@@ -33,14 +36,15 @@ Since 2013
     improving my communication and public speaking skills.
 
 2008 (3 months)
-    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
 
-    Authored a C++ library for optimizing the revenue of a metal factory
-    (Cplex). The software was based on a Linear Programming model and
-    consistently outperformed the existing in-house tool.
+    _Internship at Rio Tinto Alcan_ (Clermont Ferrand, France).
+
+    Authored a C++ library for optimizing the revenue of a metal
+    factory (Cplex). The software was based on a Linear Programming
+    model and consistently outperformed the existing in-house tool.
+
 
 Open Source Contributions
--------------------------
 
 Python
     Author of yaposib, a Python-C++ binding to coin-Osi. Awarded full
@@ -73,11 +77,12 @@ Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
     cmake… See my github account and my blog.
 
+
 Education
----------
 
 2009-2013
-    PhD in Mathematics and Computer Science at G-SCOP Laboratory
+
+    _PhD in Mathematics and Computer Science at G-SCOP Laboratory_
     (Grenoble, France).
 
     Integration of Fleet Deployment and of Passenger Service in Airline
@@ -85,13 +90,14 @@ Education
     led by Semi Gabteni. Advisors: Denis Naddef, Olivier Briant.
 
 2005-2009
-    MS in Computer Science in ENSIMAG (Grenoble, France).
+
+    _MS in Computer Science in ENSIMAG_ (Grenoble, France).
 
     Top French school of Applied Mathematics and Computer Science with
     highly selective recruitment.
 
+
 Activities and interests
-------------------------
 
 Hobbies
     I like travelling. I backpacked in 14 countries in Eastern Europe
@@ -104,9 +110,8 @@ Activities
     I was the president of the Grand Cercle, one of the largest French
     campus student associations (5.000 members) during university.
 
-* * * * *
+------------------------------------------------------------------------
 
-  chmd@chmd.fr • +49 157 530 431 00 • 31 years old  
-  Einsteinstr. 129, 81675 Munich, Germany  
-    
+  chmd@chmd.fr • +49 157 530 431 00 • 31 years old
+  Einsteinstr. 129, 81675 Munich, Germany
   pdf version • txt version • doc version • html version

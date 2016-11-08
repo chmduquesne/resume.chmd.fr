@@ -1,13 +1,6 @@
 <script>
-// Wow you are reading the source!
-//
-// Since you are really into details, you should know that this resume was
-// generated from markdown with pandoc. I wrote a blog post about it
-// http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html. Go check
-// it out!
-//
-// If you are interested in recruiting me, be sure to mention this
-// unicorn, that will get you my full attention.
+// Wow you are reading the source! If you are interested in recruiting me,
+// be sure to mention my ASCII unicorn, that will get you my full attention.
 //
 //          \
 //           \
@@ -32,6 +25,11 @@
 //                  ,.-' >.'
 //                 <.'_.''
 //                   <'
+//
+// Since you are really into details, you should know that this resume was
+// generated from markdown with pandoc. I wrote a blog post about it
+// http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html. Go check
+// it out!
 //
 // The following snippet is meant to inject my age instead of the
 // placeholder {{ MYAGE }}. More automation, less maintainance, yay!
