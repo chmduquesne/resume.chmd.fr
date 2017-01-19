@@ -117,8 +117,8 @@ Activities and interests
 ------------------------
 
 Hobbies
-:   Travelling: backpacked in Eastern Europe, South East Asia and North
-    America (15+ countries and counting).
+:   Backpacked in Eastern Europe, South East Asia and North
+    America.
 
 Sports
 :   Ski, Paragliding, Hiking. I also played rugby union for 7 years.
