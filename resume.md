@@ -105,7 +105,7 @@ Education
     Done at Amadeus, in the Operation Research team led by [Semi
     Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
     Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/).
+    Briant](https://www.linkedin.com/in/olivierbriant).
 
 2005-2009
 :   *MS in Computer Science in ENSIMAG* (Grenoble, France).
