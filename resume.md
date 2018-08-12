@@ -2,7 +2,7 @@
 
 ----
 
-> **Data Scientist**
+> **Senior Data Scientist**
 > \
 > \
 > Software Engineer who specialized in Operations Research, then Data
@@ -15,7 +15,7 @@ Corporate Experience
 --------------------
 
 Since 2013
-:   *Data Scientist for [Amadeus | Travel Intelligence](http://www.amadeus.com)*
+:   *Data Scientist for [Amadeus](https://amadeus.com)*
     (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
@@ -25,7 +25,7 @@ Since 2013
     WebSphere MQ, Apache Kafka, Logstash, Cloudera, Kerberos).
 
 2009-2013
-:   *PhD in Operations Research with [Amadeus](http://www.amadeus.com)*
+:   *PhD in Operations Research with [Amadeus](https://amadeus.com)*
     (Sophia Antipolis, France).
 
     Researched how to best assign aircraft on an airline network. Authored
@@ -35,7 +35,7 @@ Since 2013
     my communication and public speaking skills.
 
 2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
+:   *Internship at [Rio Tinto Alcan](https://www.riotintoalcan.com/)*
     (Clermont Ferrand, France).
 
     Authored a C++ library for optimizing the revenue of a metal factory
@@ -47,9 +47,9 @@ Open Source Contributions
 
 Python
 :   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
+    [yaposib](https://yaposib.readthedocs.org/en/latest/index.html), a
     Python-C++ binding to [coin-Osi](https://projects.coin-or.org/Osi).
-    Awarded [full membership](http://www.coin-or.org/members.html) in the
+    Awarded [full membership](https://www.coin-or.org/members.html) in the
     coin-or foundation in return.
     Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
     Programming library. Author of
@@ -71,24 +71,23 @@ Java
 
 Lua
 :   Author of
-    [lighttpd-external-auth](https://lighttpd-external-auth.chmd.fr/), a
-    lighttpd magnet script allowing access control via mechanisms such as
+    [lighttpd-external-auth](https://github.com/chmduquesne/lighttpd-external-auth),
+    a lighttpd magnet script allowing access control via mechanisms such as
     OpenId.
 
 Go
 :   Author of
-    [github.com/chmduquesne/rollinghash/adler32](https://github.com/chmduquesne/rollinghash),
-    a rolling version of the adler32 hash. Contributor to
+    [github.com/chmduquesne/rollinghash](https://github.com/chmduquesne/rollinghash),
+    a library of rolling checksums used in
+    [syncthing](https://syncthing.net/). Contributor to
     [jackpal/gateway](https://github.com/jackpal/gateway), a library for
     discovering the address of a LAN gateway used in
     [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
 
 Misc
-:   Experience with [Arch
-    Linux](https://git.chmd.fr/?p=archlinux-packages.git), Ada, Bash,
-    Makefile, m4, autotools, cmake...  See my
-    [github](http://github.com/chmduquesne) account and my
-    [blog](http://blog.chmd.fr).
+:   Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
+    cmake...  See my [github](https://github.com/chmduquesne) account and my
+    [blog](https://blog.chmd.fr).
 
 
 Education
@@ -96,15 +95,15 @@ Education
 
 2009-2013
 :   *PhD in Mathematics and Computer Science at [G-SCOP
-    Laboratory](http://www.g-scop.grenoble-inp.fr/)*
+    Laboratory](https://www.g-scop.grenoble-inp.fr/)*
     (Grenoble, France).
 
     [Integration of Fleet Deployment and of Passenger Service in
     Airline Schedule
     Management](https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf).
     Done at Amadeus, in the Operation Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
+    Gabteni](https://www.linkedin.com/in/semigabteni). Advisors: [Denis
+    Naddef](https://www.g-scop.inpg.fr/~naddefd/), [Olivier
     Briant](https://www.linkedin.com/in/olivierbriant).
 
 2005-2009
@@ -125,15 +124,15 @@ Sports
 
 Activities
 :   I was the president of the [Grand
-    Cercle](http://www.grandcercle.org), one of the largest French
+    Cercle](http://grandcercle.org), one of the largest French
     campus student associations (5.000 members) during university.
 
 ----
 
 > <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
-> Einsteinstr. 129, 81675 Munich, Germany\
+> Fraunhoferstr. 9, 80469 Munich, Germany\
 > \
-> [pdf version](http://resume.chmd.fr/index.pdf) •
-> [txt version](http://resume.chmd.fr/index.txt) •
-> [doc version](http://resume.chmd.fr/index.docx) •
-> [html version](http://resume.chmd.fr/index.html)
+> [pdf version](https://resume.chmd.fr/index.pdf) •
+> [txt version](https://resume.chmd.fr/index.txt) •
+> [doc version](https://resume.chmd.fr/index.docx) •
+> [html version](https://resume.chmd.fr/index.html)
