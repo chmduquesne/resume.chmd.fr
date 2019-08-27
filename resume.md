@@ -14,7 +14,15 @@
 Corporate Experience
 --------------------
 
-Since 2013
+Since 2019
+:   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
+    (Munich, Germany).
+
+    Data Engineering for AB-testing. Driving the choice and adoption of a
+    company-wide unified tracking tool for web and mobile (cross
+    department project). Plumbing and integration (AWS, terraform).
+
+2013-2019
 :   *Data Scientist for [Amadeus](https://amadeus.com)*
     (Munich, Germany).
 

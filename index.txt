@@ -12,7 +12,15 @@ Christophe-Marie Duquesne
 
 Corporate Experience
 
-Since 2013
+Since 2019
+
+    _Principal Data Engineer for Flixbus_ (Munich, Germany).
+
+    Data Engineering for AB-testing. Driving the choice and adoption of
+    a company-wide unified tracking tool for web and mobile (cross
+    department project). Plumbing and integration (AWS, terraform).
+
+2013-2019
 
     _Data Scientist for Amadeus_ (Munich, Germany).
 
@@ -74,7 +82,7 @@ Go
 
 Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
-    cmake… See my github account and my blog.
+    cmake... See my github account and my blog.
 
 
 Education
@@ -110,6 +118,6 @@ Activities
 
 ------------------------------------------------------------------------
 
-  chmd@chmd.fr • +49 157 530 431 00 • 33 years old
+  chmd@chmd.fr • +49 157 530 431 00 • 34 years old
   Fraunhoferstr. 9, 80469 Munich, Germany
   pdf version • txt version • doc version • html version
