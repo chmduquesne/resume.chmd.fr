@@ -2,10 +2,9 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  SENIOR DATA SCIENTIST
-  Software Engineer who specialized in Operations Research, then Data
-  Science. In love with data driven decision making. French, living in
-  Munich.
+  PRINCIPAL DATA ENGINEER
+  Software Engineer specialized in Operations Research and Data Science.
+  In love with data driven decision making. French, living in Munich.
 
 ------------------------------------------------------------------------
 

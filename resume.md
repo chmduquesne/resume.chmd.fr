@@ -2,12 +2,11 @@
 
 ----
 
-> **Senior Data Scientist**
+> **Principal Data Engineer**
 > \
 > \
-> Software Engineer who specialized in Operations Research, then Data
-> Science. In love with data driven decision making. French, living in
-> Munich.
+> Software Engineer specialized in Operations Research and Data Science.
+> In love with data driven decision making. French, living in Munich.
 
 ----
 
