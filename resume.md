@@ -13,11 +13,19 @@
 Corporate Experience
 --------------------
 
-Since 2019
+2019
+:   *Domain Technology Officer IT Marketing for [Flixbus](https://flixbus.com)*
+    (Munich, Germany).
+
+    Overseeing the technology excellence of the Marketing domain (2
+    Data Science teams, 1 Salesforce/PHP team). Helped re-organize mobile
+    development.
+
+2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
-    Data Engineering for AB-testing. Driving the choice and adoption of a
+    Data Engineering for AB-testing. Drove the choice and adoption of a
     company-wide unified tracking tool for web and mobile (cross
     department project). Plumbing and integration (AWS, terraform).
 
