@@ -2,7 +2,7 @@
 
 ----
 
-> **Principal Data Engineer**
+> **Technology Officer**
 > \
 > \
 > Software Engineer specialized in Operations Research and Data Science.
@@ -17,9 +17,9 @@ Corporate Experience
 :   *Domain Technology Officer IT Marketing for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
-    Overseeing the technology excellence of the Marketing domain (2
-    Data Science teams, 1 Salesforce/PHP team). Helped re-organize mobile
-    development.
+    Overseeing the technology excellence of the Marketing domain (2 Data
+    Science teams, 1 Salesforce/PHP team). Facilitated re-organizing
+    mobile development.
 
 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
