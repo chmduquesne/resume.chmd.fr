@@ -10,16 +10,17 @@ Christophe-Marie Duquesne
 
 Corporate Experience
 
-Since end 2019
+2019-Now
 
     Domain Technology Officer IT Marketing for Flixbus (Munich,
     Germany).
 
     Overseeing the technology excellence of the Marketing domain (2 Data
-    Science teams, 1 Salesforce/PHP team). Facilitated re-organizing
-    mobile development.
+    Science teams, 1 Salesforce/PHP team, 1 translation team).
+    Facilitated re-organizing mobile development. Influenced the
+    Post-Mortem culture.
 
-Early 2019
+2019
 
     Principal Data Engineer for Flixbus (Munich, Germany).
 
@@ -113,7 +114,7 @@ Hobbies
     Backpacked in Eastern Europe, South East Asia and North America.
 
 Sports
-    Ski, Paragliding, Hiking. I also played rugby union for 7 years.
+    Ski, Paragliding, Bouldering. I also played rugby union for 7 years.
 
 Activities
     I was the president of the Grand Cercle, one of the largest French
