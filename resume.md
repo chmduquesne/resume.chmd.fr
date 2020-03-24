@@ -18,8 +18,8 @@ Since end 2019
     (Munich, Germany).
 
     Overseeing the technology excellence of the Marketing domain (2 Data
-    Science teams, 1 Salesforce/PHP team). Facilitated re-organizing
-    mobile development.
+    Science teams, 1 Salesforce/PHP team, 1 translation team). Facilitated
+    re-organizing mobile development. Influenced the Post-Mortem culture.
 
 Early 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
