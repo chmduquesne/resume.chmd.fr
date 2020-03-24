@@ -135,7 +135,7 @@ Hobbies
     America.
 
 Sports
-:   Ski, Paragliding, Hiking. I also played rugby union for 7 years.
+:   Ski, Paragliding, Bouldering. I also played rugby union for 7 years.
 
 Activities
 :   I was the president of the [Grand
