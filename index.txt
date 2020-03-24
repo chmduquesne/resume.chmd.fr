@@ -2,7 +2,7 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  Principal Data Engineer, Domain Technology Officer, Lead
+  Technology Officer
   Software Engineer specialized in Operations Research and Data Science.
   In love with data driven decision making. French, living in Munich.
 
@@ -16,8 +16,8 @@ Since end 2019
     Germany).
 
     Overseeing the technology excellence of the Marketing domain (2 Data
-    Science teams, 1 Salesforce/PHP team). Helped re-organize mobile
-    development.
+    Science teams, 1 Salesforce/PHP team). Facilitated re-organizing
+    mobile development.
 
 Early 2019
 
