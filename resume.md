@@ -13,7 +13,7 @@
 Corporate Experience
 --------------------
 
-2019
+Since end 2019
 :   *Domain Technology Officer IT Marketing for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
@@ -21,7 +21,7 @@ Corporate Experience
     Science teams, 1 Salesforce/PHP team). Facilitated re-organizing
     mobile development.
 
-2019
+Early 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 

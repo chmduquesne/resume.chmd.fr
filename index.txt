@@ -2,7 +2,7 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  Principal Data Engineer
+  Principal Data Engineer, Domain Technology Officer, Lead
   Software Engineer specialized in Operations Research and Data Science.
   In love with data driven decision making. French, living in Munich.
 
@@ -10,7 +10,7 @@ Christophe-Marie Duquesne
 
 Corporate Experience
 
-2019
+Since end 2019
 
     Domain Technology Officer IT Marketing for Flixbus (Munich,
     Germany).
@@ -19,7 +19,7 @@ Corporate Experience
     Science teams, 1 Salesforce/PHP team). Helped re-organize mobile
     development.
 
-2019
+Early 2019
 
     Principal Data Engineer for Flixbus (Munich, Germany).
 
