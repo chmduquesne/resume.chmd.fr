@@ -21,7 +21,7 @@ Corporate Experience
     Science teams, 1 Salesforce/PHP team, 1 translation team). Facilitated
     re-organizing mobile development. Influenced the Post-Mortem culture.
 
-2019
+
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
