@@ -20,7 +20,9 @@ Corporate Experience
     Facilitated re-organizing mobile development. Influenced the
     Post-Mortem culture.
 
-: Principal Data Engineer for Flixbus (Munich, Germany).
+2019
+
+    Principal Data Engineer for Flixbus (Munich, Germany).
 
     Data Engineering for AB-testing. Drove the choice and adoption of a
     company-wide unified tracking tool for web and mobile (cross
