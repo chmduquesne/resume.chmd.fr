@@ -17,8 +17,8 @@ Corporate Experience
 :   *Domain Technology Officer IT Marketing for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
-    Overseeing the technology excellence of the Marketing domain (2 Data
-    Science teams, 1 Salesforce/PHP team, 1 translation team). Facilitated
+    Overseeing the technology excellence of the Marketing domain: 3 Data
+    Science teams, 3 Analytics teams, 1 Salesforce/PHP team. Facilitated
     re-organizing mobile development. Influenced the Post-Mortem culture.
 
 2019

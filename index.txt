@@ -2,27 +2,28 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  Technology Officer
+  TECHNOLOGY OFFICER
   Software Engineer specialized in Operations Research and Data Science.
   In love with data driven decision making. French, living in Munich.
 
 ------------------------------------------------------------------------
 
+
 Corporate Experience
 
 2019-Now
 
-    Domain Technology Officer IT Marketing for Flixbus (Munich,
+    _Domain Technology Officer IT Marketing for Flixbus_ (Munich,
     Germany).
 
-    Overseeing the technology excellence of the Marketing domain (2 Data
-    Science teams, 1 Salesforce/PHP team, 1 translation team).
-    Facilitated re-organizing mobile development. Influenced the
-    Post-Mortem culture.
+    Overseeing the technology excellence of the Marketing domain: 3 Data
+    Science teams, 3 Analytics teams, 1 Salesforce/PHP team. Facilitated
+    re-organizing mobile development. Influenced the Post-Mortem
+    culture.
 
 2019
 
-    Principal Data Engineer for Flixbus (Munich, Germany).
+    _Principal Data Engineer for Flixbus_ (Munich, Germany).
 
     Data Engineering for AB-testing. Drove the choice and adoption of a
     company-wide unified tracking tool for web and mobile (cross
@@ -30,7 +31,7 @@ Corporate Experience
 
 2013-2019
 
-    Data Scientist for Amadeus (Munich, Germany).
+    _Data Scientist for Amadeus_ (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
     web services (Flask, Sqlite), shipped as Debian packages,
@@ -41,7 +42,8 @@ Corporate Experience
 
 2009-2013
 
-    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
+    _PhD in Operations Research with Amadeus_ (Sophia Antipolis,
+    France).
 
     Researched how to best assign aircraft on an airline network.
     Authored a C++ solver and a Python suite of 20+ command line tools
@@ -51,11 +53,12 @@ Corporate Experience
 
 2008 (3 months)
 
-    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
+    _Internship at Rio Tinto Alcan_ (Clermont Ferrand, France).
 
     Authored a C++ library for optimizing the revenue of a metal factory
     (Cplex). The software was based on a Linear Programming model and
     consistently outperformed the existing in-house tool.
+
 
 Open Source Contributions
 
@@ -90,11 +93,12 @@ Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
     cmake… See my github account and my blog.
 
+
 Education
 
 2009-2013
 
-    PhD in Mathematics and Computer Science at G-SCOP Laboratory
+    _PhD in Mathematics and Computer Science at G-SCOP Laboratory_
     (Grenoble, France).
 
     Integration of Fleet Deployment and of Passenger Service in Airline
@@ -103,10 +107,11 @@ Education
 
 2005-2009
 
-    MS in Computer Science in ENSIMAG (Grenoble, France).
+    _MS in Computer Science in ENSIMAG_ (Grenoble, France).
 
     Top French school of Applied Mathematics and Computer Science with
     highly selective recruitment.
+
 
 Activities and interests
 
