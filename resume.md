@@ -18,16 +18,20 @@ Corporate Experience
     (Munich, Germany).
 
     Overseeing the technology excellence of the Marketing domain: 3 Data
-    Science teams, 3 Analytics teams, 1 Salesforce/PHP team. Facilitated
-    re-organizing mobile development. Influenced the Post-Mortem culture.
+    Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons).
+    Facilitated re-organizing mobile development. Driving the Post-Mortem
+    culture. Leading the re-architecturing of the company stack to better
+    handle GDPR compliance.
 
 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
     Data Engineering for AB-testing. Drove the choice and adoption of a
-    company-wide unified tracking tool for web and mobile (cross
-    department project). Plumbing and integration (AWS, terraform).
+    unified tracking tool for web and mobile (cross department project),
+    enabling real-time analytics use-cases, faster page loads, unified
+    metrics and a 6-digit cost reduction for the company. Plumbing and
+    integration (AWS, terraform).
 
 2013-2019
 :   *Data Scientist for [Amadeus](https://amadeus.com)*
