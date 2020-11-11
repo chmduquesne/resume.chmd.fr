@@ -18,10 +18,10 @@ Corporate Experience
     (Munich, Germany).
 
     Overseeing the technology excellence of the Marketing domain: 3 Data
-    Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons).
-    Facilitated re-organizing mobile development. Driving the Post-Mortem
-    culture. Leading the re-architecturing of the company stack to better
-    handle GDPR compliance.
+    Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons
+    across 2 locations) Facilitated re-organizing mobile development.
+    Driving the Post-Mortem culture. Leading the re-architecturing of the
+    company stack to better handle GDPR compliance.
 
 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
