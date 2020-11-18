@@ -2,11 +2,12 @@
 
 ----
 
-> **Technology Officer**
+> **Data Architect and Technology Leader**
 > \
 > \
-> Software Engineer specialized in Operations Research and Data Science.
-> In love with data driven decision making. French, living in Munich.
+> Technology Lead of the Marketing Domain at Flixbus. Data Architect,
+> Operations Research Specialist and Software Engineer. In love with data
+> driven decision making. French, living in Munich.
 
 ----
 
@@ -14,24 +15,27 @@ Corporate Experience
 --------------------
 
 2019-Now
-:   *Domain Technology Officer IT Marketing for [Flixbus](https://flixbus.com)*
+:   *Domain Technology Officer ("Domain CTO") Marketing for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
-    Overseeing the technology excellence of the Marketing domain: 3 Data
-    Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons
-    across 2 locations) Facilitated re-organizing mobile development.
-    Driving the Post-Mortem culture. Leading the re-architecturing of the
-    company stack to better handle GDPR compliance.
+    "CTO" of the Flixbus Marketing Organization: 3 Data Science teams, 2
+    Analytics teams, 1 Salesforce/PHP team (37 persons across 2
+    locations). Guiding the rearchitecture of the company data to comply
+    by design with GDPR while generating more value. Applying years of
+    experience in Data Science, Data Engineering and Software Development
+    to empower the business in making better decisions.
 
 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
     Data Engineering for AB-testing. Drove the choice and adoption of a
-    unified tracking tool for web and mobile (cross department project),
-    enabling real-time analytics use-cases, faster page loads, unified
-    metrics and a 6-digit cost reduction for the company. Plumbing and
-    integration (AWS, terraform).
+    unified tracking tool for web and mobile, enabling real-time analytics
+    use-cases, faster page loads, unified metrics and a 6-digit cost
+    reduction for the company (Snowplow, Kafka, S3, Athena, Snowflake,
+    Datadog). Drove the reorganisation of the Mobile development to favor
+    faster delivery, smoother cross-team communication, and foster a
+    mobile-first mindset.
 
 2013-2019
 :   *Data Scientist for [Amadeus](https://amadeus.com)*
