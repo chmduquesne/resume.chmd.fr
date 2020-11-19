@@ -2,10 +2,10 @@
 
 ----
 
-> **Data Technology Leader**
+> **Technology Leader**
 > \
 > \
-> Technology Leader of the Marketing Domain at Flixbus. Data Architect,
+> Technology Leader for the Marketing at Flixbus. Data Architect,
 > Operations Research Specialist and Software Engineer. In love with data
 > driven decision making. French, living in Munich.
 
