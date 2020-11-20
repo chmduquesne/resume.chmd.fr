@@ -5,8 +5,9 @@
 > **Technology Leader**
 > \
 > \
-> Technology Leader, Data Architect, Operations Research Specialist. In
-> love with data driven decision making. French, living in Munich.
+> Technology Leader and Data Architect with an Operations Research
+> background. In love with data driven decision making. French, living in
+> Munich.
 
 ----
 
