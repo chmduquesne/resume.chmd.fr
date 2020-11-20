@@ -76,7 +76,7 @@ Python
     Python-C++ binding to [coin-Osi](https://projects.coin-or.org/Osi).
     Awarded [full membership](https://www.coin-or.org/members.html) in the
     coin-or foundation in return.
-    Contributor to [pulp-or](https://pythonhosted.org/PuLP/), a Linear
+    Contributor to [pulp-or](https://pypi.org/project/PuLP/), a Linear
     Programming library. Author of
     [flasfka](https://github.com/travel-intelligence/flasfka), an http
     bridge for posting/getting messages to Apache Kafka. Author of
@@ -127,9 +127,9 @@ Education
     Airline Schedule
     Management](https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf).
     Done at Amadeus, in the Operation Research team led by [Semi
-    Gabteni](https://www.linkedin.com/in/semigabteni). Advisors: [Denis
+    Gabteni](https://www.linkedin.com/in/semigabteni/). Advisors: [Denis
     Naddef](https://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](https://www.linkedin.com/in/olivierbriant).
+    Briant](https://www.linkedin.com/in/olivierbriant/).
 
 2005-2009
 :   *MS in Computer Science in ENSIMAG* (Grenoble, France).
