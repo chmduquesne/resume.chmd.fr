@@ -6,8 +6,8 @@
 > \
 > \
 > Technology Leader with a full stack experience. Data Architect,
-> Operations Research Specialist and Software Engineer. Devops at heart.
-> In love with data driven decision making. French, living in Munich.
+> Operations Research Specialist and Software Engineer. In love with data
+> driven decision making. French, living in Munich.
 
 ----
 
@@ -44,10 +44,11 @@ Corporate Experience
     Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
     web services (Flask, Sqlite), shipped as Debian packages, continuously
     integrated with Jenkins. Implemented and deployed a high performance
-    cross data center link requiring alignment between multiple parts of
-    the organization (IBM WebSphere MQ, Apache Kafka). Participated in the
-    Data Lake evaluation and maintenance. Contributed to log collection, user
-    authentication and certificate management (Logstash, Cloudera, Kerberos).
+    cross data center link, aligning multiple parts of the organization in
+    the process (IBM WebSphere MQ, Apache Kafka). Participated in the Data
+    Lake evaluation and maintenance. Contributed to log collection, user
+    authentication and certificate management (Logstash, Cloudera,
+    Kerberos).
 
 2009-2013
 :   *PhD in Operations Research with [Amadeus](https://amadeus.com)*
@@ -55,9 +56,9 @@ Corporate Experience
 
     Researched how to best assign aircraft on an airline network. Authored
     a C++ solver and a Python suite of 20+ command line tools (Cplex,
-    Gurobi). Benchmark performed against real life data (mined with
-    Hadoop). Worked as a teaching assistant at the university, improving
-    my communication and public speaking skills.
+    Gurobi). Benchmark performed against real life data, pioneering Hadoop
+    usage in Amadeus. Worked as a teaching assistant at the university,
+    improving my communication and public speaking skills.
 
 2008 (3 months)
 :   *Internship at [Rio Tinto Alcan](https://www.riotintoalcan.com/)*
