@@ -1,6 +1,6 @@
 <script>
 // Wow you are reading the source! If you are interested in recruiting me,
-// be sure to mention my ASCII unicorn, that will get you my full attention.
+// be sure to mention this ASCII unicorn, that will get you my full attention.
 //
 //          \
 //           \

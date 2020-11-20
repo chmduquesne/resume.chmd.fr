@@ -157,7 +157,7 @@ Activities
 > <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
 > Fraunhoferstr. 9, 80469 Munich, Germany\
 > \
-> [pdf version](https://resume.chmd.fr/index.pdf) •
-> [txt version](https://resume.chmd.fr/index.txt) •
-> [doc version](https://resume.chmd.fr/index.docx) •
-> [html version](https://resume.chmd.fr/index.html)
+> [pdf version](https://resume.chmd.fr/Christophe-Marie_Duquesne.pdf) •
+> [txt version](https://resume.chmd.fr/Christophe-Marie_Duquesne.txt) •
+> [doc version](https://resume.chmd.fr/Christophe-Marie_Duquesne.docx) •
+> [html version](https://resume.chmd.fr)
