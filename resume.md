@@ -5,9 +5,9 @@
 > **Technology Leader**
 > \
 > \
-> Technology Leader for the Marketing at Flixbus. Data Architect,
-> Operations Research Specialist and Software Engineer. In love with data
-> driven decision making. French, living in Munich.
+> Technology Leader with a full stack experience. Data Architect,
+> Operations Research Specialist and Software Engineer. Devops at heart.
+> In love with data driven decision making. French, living in Munich.
 
 ----
 
@@ -21,9 +21,9 @@ Corporate Experience
     "CTO" of the Flixbus Marketing Organization: 3 Data Science teams, 2
     Analytics teams, 1 Salesforce/PHP team (37 persons across 2
     locations). Guiding the rearchitecture of the company data to comply
-    by design with GDPR while generating more value. Applying years of
+    with GDPR by design while generating more value. Applying years of
     experience in Data Science, Data Engineering and Software Development
-    to empower the business in making better decisions.
+    to empower the business in making smarter decisions.
 
 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
@@ -43,9 +43,11 @@ Corporate Experience
 
     Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
     web services (Flask, Sqlite), shipped as Debian packages, continuously
-    integrated with Jenkins. Participated in various devops tasks: log
-    collection, user authentication, transfer between data centers (IBM
-    WebSphere MQ, Apache Kafka, Logstash, Cloudera, Kerberos).
+    integrated with Jenkins. Implemented and deployed a high performance
+    cross data center link requiring alignment between multiple parts of
+    the organization (IBM WebSphere MQ, Apache Kafka). Participated in the
+    Data Lake evaluation and maintenance. Contributed to log collection, user
+    authentication and certificate management (Logstash, Cloudera, Kerberos).
 
 2009-2013
 :   *PhD in Operations Research with [Amadeus](https://amadeus.com)*
