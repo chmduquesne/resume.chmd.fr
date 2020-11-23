@@ -15,15 +15,15 @@ Corporate Experience
 --------------------
 
 2019-Now
-:   *Domain Technology Officer ("Domain CTO") Marketing for [Flixbus](https://flixbus.com)*
+:   *Domain Technology Officer Marketing for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
-    "CTO" of the Flixbus Marketing Organization: 3 Data Science teams, 2
-    Analytics teams, 1 Salesforce/PHP team (37 persons across 2
-    locations). Guiding the rearchitecture of the company data to comply
-    with GDPR by design while generating more value. Applying years of
-    experience in Data Science, Data Engineering and Software Development
-    to empower the business in making smarter decisions.
+    Technology Leader of the Flixbus Marketing Organization: 3 Data
+    Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons
+    across 2 locations). Guiding the rearchitecture of the company data to
+    comply with GDPR by design while generating more value. Applying years
+    of experience in Data Science, Data Engineering and Software
+    Development to empower the business in making smarter decisions.
 
 2019
 :   *Principal Data Engineer for [Flixbus](https://flixbus.com)*
