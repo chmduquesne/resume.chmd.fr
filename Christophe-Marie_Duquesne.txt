@@ -2,10 +2,9 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  TECHNOLOGY LEADER
-  Technology Leader and Data Architect with an Operations Research
-  background. In love with data driven decision making. French, living
-  in Munich.
+  DATA TECHNOLOGY LEADER
+  Data Technology Leader with an Operations Research background. In love
+  with data driven decision making. French, living in Munich.
 
 ------------------------------------------------------------------------
 
@@ -136,6 +135,6 @@ Activities
 
 ------------------------------------------------------------------------
 
-  chmd@chmd.fr • +49 157 530 431 00 • 35 years old
+  chmd@chmd.fr • +49 157 530 431 00 • 36 years old
   Fraunhoferstr. 9, 80469 Munich, Germany
   pdf version • txt version • doc version • html version

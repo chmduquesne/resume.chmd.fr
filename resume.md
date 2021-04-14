@@ -2,12 +2,11 @@
 
 ----
 
-> **Technology Leader**
+> **Data Technology Leader**
 > \
 > \
-> Technology Leader and Data Architect with an Operations Research
-> background. In love with data driven decision making. French, living in
-> Munich.
+> Data Technology Leader with an Operations Research background. In love
+> with data driven decision making. French, living in Munich.
 
 ----
 
