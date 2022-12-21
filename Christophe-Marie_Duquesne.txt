@@ -2,18 +2,17 @@ Christophe-Marie Duquesne
 
 ------------------------------------------------------------------------
 
-  DATA TECHNOLOGY LEADER
+  Data Technology Leader
   Data Technology Leader with an Operations Research background. In love
   with data driven decision making. French, living in Munich.
 
 ------------------------------------------------------------------------
 
-
 Corporate Experience
 
 2019-Now
 
-    _Domain Technology Officer Marketing for Flixbus_ (Munich, Germany).
+    Domain Technology Officer Marketing for Flixbus (Munich, Germany).
 
     Technology Leader of the Flixbus Marketing Organization: 3 Data
     Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons
@@ -24,7 +23,7 @@ Corporate Experience
 
 2019
 
-    _Principal Data Engineer for Flixbus_ (Munich, Germany).
+    Principal Data Engineer for Flixbus (Munich, Germany).
 
     Data Engineering for AB-testing. Drove the choice and adoption of a
     unified tracking tool for web and mobile, enabling real-time
@@ -36,7 +35,7 @@ Corporate Experience
 
 2013-2019
 
-    _Data Scientist for Amadeus_ (Munich, Germany).
+    Data Scientist for Amadeus (Munich, Germany).
 
     Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
     web services (Flask, Sqlite), shipped as Debian packages,
@@ -49,8 +48,7 @@ Corporate Experience
 
 2009-2013
 
-    _PhD in Operations Research with Amadeus_ (Sophia Antipolis,
-    France).
+    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
 
     Researched how to best assign aircraft on an airline network.
     Authored a C++ solver and a Python suite of 20+ command line tools
@@ -61,12 +59,11 @@ Corporate Experience
 
 2008 (3 months)
 
-    _Internship at Rio Tinto Alcan_ (Clermont Ferrand, France).
+    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
 
     Authored a C++ library for optimizing the revenue of a metal factory
     (Cplex). The software was based on a Linear Programming model and
     consistently outperformed the existing in-house tool.
-
 
 Open Source Contributions
 
@@ -101,12 +98,11 @@ Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
     cmake… See my github account and my blog.
 
-
 Education
 
 2009-2013
 
-    _PhD in Mathematics and Computer Science at G-SCOP Laboratory_
+    PhD in Mathematics and Computer Science at G-SCOP Laboratory
     (Grenoble, France).
 
     Integration of Fleet Deployment and of Passenger Service in Airline
@@ -115,11 +111,10 @@ Education
 
 2005-2009
 
-    _MS in Computer Science in ENSIMAG_ (Grenoble, France).
+    MS in Computer Science in ENSIMAG (Grenoble, France).
 
     Top French school of Applied Mathematics and Computer Science with
     highly selective recruitment.
-
 
 Activities and interests
 
@@ -135,6 +130,6 @@ Activities
 
 ------------------------------------------------------------------------
 
-  chmd@chmd.fr • +49 157 530 431 00 • 36 years old
+  chmd@chmd.fr • +49 157 530 431 00 • 37 years old
   Fraunhoferstr. 9, 80469 Munich, Germany
   pdf version • txt version • doc version • html version
