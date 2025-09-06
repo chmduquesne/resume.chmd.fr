@@ -119,7 +119,7 @@ Education
 
     [Integration of Fleet Deployment and of Passenger Service in
     Airline Schedule
-    Management](https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf).
+    Management](https://theses.hal.science/tel-00953136/).
     Done at Amadeus, in the Operation Research team led by [Semi
     Gabteni](https://www.linkedin.com/in/semigabteni/). Advisors: [Denis
     Naddef](https://www.g-scop.inpg.fr/~naddefd/), [Olivier
