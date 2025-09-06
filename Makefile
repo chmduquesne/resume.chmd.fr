@@ -8,9 +8,12 @@ index.md: resume.md
 index.html: resume.md style.css
 	pandoc --standalone -c style.css -H age.js --from markdown --to html -o index.html resume.md
 
-Christophe-Marie_Duquesne.pdf: index.md
+context-lmtx/tex/texmf-linux-64/bin/context:
+	./install-context.sh
+
+Christophe-Marie_Duquesne.pdf: index.md context-lmtx/tex/texmf-linux-64/bin/context
 	pandoc --standalone --template style.tex -V papersize=A4 --from markdown --to context -o Christophe-Marie_Duquesne.tex index.md
-	context Christophe-Marie_Duquesne.tex
+	PATH=${PWD}/context-lmtx/tex/texmf-linux-64/bin:${PATH} context Christophe-Marie_Duquesne.tex
 
 Christophe-Marie_Duquesne.docx: index.md
 	pandoc --from markdown --to docx -o $@ index.md

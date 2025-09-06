@@ -5,11 +5,22 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Christophe-Marie Duquesne</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="style.css" />
   <script>
@@ -55,7 +66,7 @@
       var ageDiff = Date.now() - birthday;
       var msPerYear = 31536000000;
       var myAge = Math.floor(ageDiff / msPerYear);
-  
+
       // Replace the placeholder
       //
       // Unfortunately, pandoc does not offer an easy option to put an html
@@ -76,82 +87,168 @@
 <blockquote>
 <p><strong>Data Technology Leader</strong><br />
 <br />
-Data Technology Leader with an Operations Research background. In love with data driven decision making. French, living in Munich.</p>
+Data Technology Leader with an Operations Research background. In love
+with data driven decision making. French, living in Munich.</p>
 </blockquote>
 <hr />
 <h2 id="corporate-experience">Corporate Experience</h2>
 <dl>
 <dt>2019-Now</dt>
-<dd><p><em>Domain Technology Officer Marketing for <a href="https://flixbus.com">Flixbus</a></em> (Munich, Germany).</p>
-<p>Technology Leader of the Flixbus Marketing Organization: 3 Data Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons across 2 locations). Guiding the rearchitecture of the company data to comply with GDPR by design while generating more value. Applying years of experience in Data Science, Data Engineering and Software Development to empower the business in making smarter decisions.</p>
+<dd>
+<p><em>Domain Technology Officer Marketing for <a
+href="https://flixbus.com">Flixbus</a></em> (Munich, Germany).</p>
+<p>Technology Leader of the Flixbus Marketing Organization: 3 Data
+Science teams, 2 Analytics teams, 1 Salesforce/PHP team (37 persons
+across 2 locations). Guiding the rearchitecture of the company data to
+comply with GDPR by design while generating more value. Applying years
+of experience in Data Science, Data Engineering and Software Development
+to empower the business in making smarter decisions.</p>
 </dd>
 <dt>2019</dt>
-<dd><p><em>Principal Data Engineer for <a href="https://flixbus.com">Flixbus</a></em> (Munich, Germany).</p>
-<p>Data Engineering for AB-testing. Drove the choice and adoption of a unified tracking tool for web and mobile, enabling real-time analytics use-cases, faster page loads, unified metrics and a 6-digit cost reduction for the company (Snowplow, Kafka, S3, Athena, Snowflake, Datadog). Drove the reorganisation of the Mobile development to favor faster delivery, smoother cross-team communication, and foster a mobile-first mindset.</p>
+<dd>
+<p><em>Principal Data Engineer for <a
+href="https://flixbus.com">Flixbus</a></em> (Munich, Germany).</p>
+<p>Data Engineering for AB-testing. Drove the choice and adoption of a
+unified tracking tool for web and mobile, enabling real-time analytics
+use-cases, faster page loads, unified metrics and a 6-digit cost
+reduction for the company (Snowplow, Kafka, S3, Athena, Snowflake,
+Datadog). Drove the reorganisation of the Mobile development to favor
+faster delivery, smoother cross-team communication, and foster a
+mobile-first mindset.</p>
 </dd>
 <dt>2013-2019</dt>
-<dd><p><em>Data Scientist for <a href="https://amadeus.com">Amadeus</a></em> (Munich, Germany).</p>
-<p>Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote web services (Flask, Sqlite), shipped as Debian packages, continuously integrated with Jenkins. Implemented and deployed a high performance cross data center link, aligning multiple parts of the organization in the process (IBM WebSphere MQ, Apache Kafka). Participated in the Data Lake evaluation and maintenance. Contributed to log collection, user authentication and certificate management (Logstash, Cloudera, Kerberos).</p>
+<dd>
+<p><em>Data Scientist for <a href="https://amadeus.com">Amadeus</a></em>
+(Munich, Germany).</p>
+<p>Hadoop-based Mining on Travel Industry Data (Petabyte scale). Wrote
+web services (Flask, Sqlite), shipped as Debian packages, continuously
+integrated with Jenkins. Implemented and deployed a high performance
+cross data center link, aligning multiple parts of the organization in
+the process (IBM WebSphere MQ, Apache Kafka). Participated in the Data
+Lake evaluation and maintenance. Contributed to log collection, user
+authentication and certificate management (Logstash, Cloudera,
+Kerberos).</p>
 </dd>
 <dt>2009-2013</dt>
-<dd><p><em>PhD in Operations Research with <a href="https://amadeus.com">Amadeus</a></em> (Sophia Antipolis, France).</p>
-<p>Researched how to best assign aircraft on an airline network. Authored a C++ solver and a Python suite of 20+ command line tools (Cplex, Gurobi). Benchmark performed against real life data, pioneering Hadoop usage in Amadeus. Worked as a teaching assistant at the university, improving my communication and public speaking skills.</p>
+<dd>
+<p><em>PhD in Operations Research with <a
+href="https://amadeus.com">Amadeus</a></em> (Sophia Antipolis,
+France).</p>
+<p>Researched how to best assign aircraft on an airline network.
+Authored a C++ solver and a Python suite of 20+ command line tools
+(Cplex, Gurobi). Benchmark performed against real life data, pioneering
+Hadoop usage in Amadeus. Worked as a teaching assistant at the
+university, improving my communication and public speaking skills.</p>
 </dd>
 <dt>2008 (3 months)</dt>
-<dd><p><em>Internship at <a href="https://www.riotintoalcan.com/">Rio Tinto Alcan</a></em> (Clermont Ferrand, France).</p>
-<p>Authored a C++ library for optimizing the revenue of a metal factory (Cplex). The software was based on a Linear Programming model and consistently outperformed the existing in-house tool.</p>
+<dd>
+<p><em>Internship at <a href="https://www.riotintoalcan.com/">Rio Tinto
+Alcan</a></em> (Clermont Ferrand, France).</p>
+<p>Authored a C++ library for optimizing the revenue of a metal factory
+(Cplex). The software was based on a Linear Programming model and
+consistently outperformed the existing in-house tool.</p>
 </dd>
 </dl>
 <h2 id="open-source-contributions">Open Source Contributions</h2>
 <dl>
 <dt>Python</dt>
-<dd>Author of <a href="https://yaposib.readthedocs.org/en/latest/index.html">yaposib</a>, a Python-C++ binding to <a href="https://projects.coin-or.org/Osi">coin-Osi</a>. Awarded <a href="https://www.coin-or.org/members.html">full membership</a> in the coin-or foundation in return. Contributor to <a href="https://pypi.org/project/PuLP/">pulp-or</a>, a Linear Programming library. Author of <a href="https://github.com/travel-intelligence/flasfka">flasfka</a>, an http bridge for posting/getting messages to Apache Kafka. Author of <a href="https://github.com/chmduquesne/persistentdicts">persistentdicts</a>, a library exposing various databases with Python dict-like interfaces.
-</dd>
-<dt>C</dt>
-<dd>Author of <a href="https://github.com/chmduquesne/lazylpsolverlibs">lazylpsolverlibs</a>, a set of proxy libraries targeting cplex, gurobi and xpress.
-</dd>
-<dt>Java</dt>
-<dd>Author of <a href="https://github.com/chmduquesne/talkmyphone">talkmyphone</a>, an android application allowing phone control via gtalk (10.000+ downloads, forked 50 times on googlecode). It was then successfully handed over to <a href="https://github.com/Yakoo63/GTalkSMS">other developers</a>.
-</dd>
-<dt>Lua</dt>
-<dd>Author of <a href="https://github.com/chmduquesne/lighttpd-external-auth">lighttpd-external-auth</a>, a lighttpd magnet script allowing access control via mechanisms such as OpenId.
+<dd>
+Author of <a
+href="https://yaposib.readthedocs.org/en/latest/index.html">yaposib</a>,
+a Python-C++ binding to <a
+href="https://projects.coin-or.org/Osi">coin-Osi</a>. Awarded <a
+href="https://www.coin-or.org/members.html">full membership</a> in the
+coin-or foundation in return. Contributor to <a
+href="https://pypi.org/project/PuLP/">pulp-or</a>, a Linear Programming
+library. Author of <a
+href="https://github.com/travel-intelligence/flasfka">flasfka</a>, an
+http bridge for posting/getting messages to Apache Kafka. Author of <a
+href="https://github.com/chmduquesne/persistentdicts">persistentdicts</a>,
+a library exposing various databases with Python dict-like interfaces.
 </dd>
 <dt>Go</dt>
-<dd>Author of <a href="https://github.com/chmduquesne/rollinghash">github.com/chmduquesne/rollinghash</a>, a library of rolling checksums used in <a href="https://syncthing.net/">syncthing</a>. Contributor to <a href="https://github.com/jackpal/gateway">jackpal/gateway</a>, a library for discovering the address of a LAN gateway used in <a href="https://github.com/jackpal/Taipei-Torrent">Tapei-Torrent</a>.
+<dd>
+Author of <a
+href="https://github.com/chmduquesne/rollinghash">github.com/chmduquesne/rollinghash</a>,
+a library of rolling checksums used in <a
+href="https://syncthing.net/">syncthing</a> and <a
+href="https://kopia.io/">kopia</a>. Contributor to <a
+href="https://github.com/jackpal/gateway">jackpal/gateway</a>, a library
+for discovering the address of a LAN gateway used in <a
+href="https://github.com/jackpal/Taipei-Torrent">Tapei-Torrent</a>.
+</dd>
+<dt>Java</dt>
+<dd>
+Author of <a
+href="https://github.com/chmduquesne/talkmyphone">talkmyphone</a>, an
+android application allowing phone control via gtalk (10.000+ downloads,
+forked 50 times on googlecode). It was then successfully handed over to
+<a href="https://github.com/Yakoo63/GTalkSMS">other developers</a>.
+</dd>
+<dt>C</dt>
+<dd>
+Author of <a
+href="https://github.com/chmduquesne/lazylpsolverlibs">lazylpsolverlibs</a>,
+a set of proxy libraries targeting cplex, gurobi and xpress.
 </dd>
 <dt>Misc</dt>
-<dd>Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools, cmake… See my <a href="https://github.com/chmduquesne">github</a> account and my <a href="https://blog.chmd.fr">blog</a>.
+<dd>
+Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools, cmake…
+See my <a href="https://github.com/chmduquesne">github</a> account and
+my <a href="https://blog.chmd.fr">blog</a>.
 </dd>
 </dl>
 <h2 id="education">Education</h2>
 <dl>
 <dt>2009-2013</dt>
-<dd><p><em>PhD in Mathematics and Computer Science at <a href="https://www.g-scop.grenoble-inp.fr/">G-SCOP Laboratory</a></em> (Grenoble, France).</p>
-<p><a href="https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf">Integration of Fleet Deployment and of Passenger Service in Airline Schedule Management</a>. Done at Amadeus, in the Operation Research team led by <a href="https://www.linkedin.com/in/semigabteni/">Semi Gabteni</a>. Advisors: <a href="https://www.g-scop.inpg.fr/~naddefd/">Denis Naddef</a>, <a href="https://www.linkedin.com/in/olivierbriant/">Olivier Briant</a>.</p>
+<dd>
+<p><em>PhD in Mathematics and Computer Science at <a
+href="https://www.g-scop.grenoble-inp.fr/">G-SCOP Laboratory</a></em>
+(Grenoble, France).</p>
+<p><a
+href="https://static.chmd.fr/2012_PhD_Thesis_Christophe-Marie_Duquesne.pdf">Integration
+of Fleet Deployment and of Passenger Service in Airline Schedule
+Management</a>. Done at Amadeus, in the Operation Research team led by
+<a href="https://www.linkedin.com/in/semigabteni/">Semi Gabteni</a>.
+Advisors: <a href="https://www.g-scop.inpg.fr/~naddefd/">Denis
+Naddef</a>, <a href="https://www.linkedin.com/in/olivierbriant/">Olivier
+Briant</a>.</p>
 </dd>
 <dt>2005-2009</dt>
-<dd><p><em>MS in Computer Science in ENSIMAG</em> (Grenoble, France).</p>
-<p>Top French school of Applied Mathematics and Computer Science with highly selective recruitment.</p>
+<dd>
+<p><em>MS in Computer Science in ENSIMAG</em> (Grenoble, France).</p>
+<p>French engineering school specialized in Applied Mathematics and
+Computer Science.</p>
 </dd>
 </dl>
 <h2 id="activities-and-interests">Activities and interests</h2>
 <dl>
-<dt>Hobbies</dt>
-<dd>Backpacked in Eastern Europe, South East Asia and North America.
+<dt>Paragliding</dt>
+<dd>
+Pilot since 2015.
 </dd>
-<dt>Sports</dt>
-<dd>Ski, Paragliding, Bouldering. I also played rugby union for 7 years.
+<dt>Other sports</dt>
+<dd>
+Ski, Bouldering. I also played rugby union for 7 years.
 </dd>
 <dt>Activities</dt>
-<dd>I was the president of the <a href="http://grandcercle.org">Grand Cercle</a>, one of the largest French campus student associations (5.000 members) during university.
+<dd>
+I was the president of the <a href="https://www.grandcercle.org/">Grand
+Cercle</a>, one of the largest French campus student associations (5.000
+members) during university.
 </dd>
 </dl>
 <hr />
 <blockquote>
-<p><a href="mailto:chmd@chmd.fr" class="email">chmd@chmd.fr</a> • +49 157 530 431 00 • {{ MYAGE }} years old<br />
-Fraunhoferstr. 9, 80469 Munich, Germany<br />
+<p><a href="mailto:chmd@chmd.fr" class="email">chmd@chmd.fr</a> • +336
+84 14 26 82 • {{ MYAGE }} years old<br />
 <br />
-<a href="https://resume.chmd.fr/Christophe-Marie_Duquesne.pdf">pdf version</a> • <a href="https://resume.chmd.fr/Christophe-Marie_Duquesne.txt">txt version</a> • <a href="https://resume.chmd.fr/Christophe-Marie_Duquesne.docx">doc version</a> • <a href="https://resume.chmd.fr">html version</a></p>
+<a href="https://resume.chmd.fr/Christophe-Marie_Duquesne.pdf">pdf
+version</a> • <a
+href="https://resume.chmd.fr/Christophe-Marie_Duquesne.txt">txt
+version</a> • <a
+href="https://resume.chmd.fr/Christophe-Marie_Duquesne.docx">doc
+version</a> • <a href="https://resume.chmd.fr">html version</a></p>
 </blockquote>
 </body>
 </html>

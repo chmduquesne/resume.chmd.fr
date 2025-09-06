@@ -83,10 +83,14 @@ Python
     [persistentdicts](https://github.com/chmduquesne/persistentdicts), a
     library exposing various databases with Python dict-like interfaces.
 
-C
+Go
 :   Author of
-    [lazylpsolverlibs](https://github.com/chmduquesne/lazylpsolverlibs), a
-    set of proxy libraries targeting cplex, gurobi and xpress.
+    [github.com/chmduquesne/rollinghash](https://github.com/chmduquesne/rollinghash),
+    a library of rolling checksums used in
+    [syncthing](https://syncthing.net/) and [kopia](https://kopia.io/).
+    Contributor to [jackpal/gateway](https://github.com/jackpal/gateway),
+    a library for discovering the address of a LAN gateway used in
+    [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
 
 Java
 :   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone), an
@@ -94,20 +98,10 @@ Java
     downloads, forked 50 times on googlecode). It was then successfully
     handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
 
-Lua
+C
 :   Author of
-    [lighttpd-external-auth](https://github.com/chmduquesne/lighttpd-external-auth),
-    a lighttpd magnet script allowing access control via mechanisms such as
-    OpenId.
-
-Go
-:   Author of
-    [github.com/chmduquesne/rollinghash](https://github.com/chmduquesne/rollinghash),
-    a library of rolling checksums used in
-    [syncthing](https://syncthing.net/). Contributor to
-    [jackpal/gateway](https://github.com/jackpal/gateway), a library for
-    discovering the address of a LAN gateway used in
-    [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
+    [lazylpsolverlibs](https://github.com/chmduquesne/lazylpsolverlibs), a
+    set of proxy libraries targeting cplex, gurobi and xpress.
 
 Misc
 :   Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
@@ -134,28 +128,25 @@ Education
 2005-2009
 :   *MS in Computer Science in ENSIMAG* (Grenoble, France).
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    French engineering school specialized in Applied Mathematics and Computer Science.
 
 Activities and interests
 ------------------------
 
-Hobbies
-:   Backpacked in Eastern Europe, South East Asia and North
-    America.
+Paragliding
+:   Pilot since 2015.
 
-Sports
-:   Ski, Paragliding, Bouldering. I also played rugby union for 7 years.
+Other sports
+:   Ski, Bouldering. I also played rugby union for 7 years.
 
 Activities
 :   I was the president of the [Grand
-    Cercle](http://grandcercle.org), one of the largest French
+    Cercle](https://www.grandcercle.org/), one of the largest French
     campus student associations (5.000 members) during university.
 
 ----
 
-> <chmd@chmd.fr> • +49 157 530 431 00 • {{ MYAGE }} years old\
-> Fraunhoferstr. 9, 80469 Munich, Germany\
+> <chmd@chmd.fr> • +336 84 14 26 82 • {{ MYAGE }} years old\
 > \
 > [pdf version](https://resume.chmd.fr/Christophe-Marie_Duquesne.pdf) •
 > [txt version](https://resume.chmd.fr/Christophe-Marie_Duquesne.txt) •

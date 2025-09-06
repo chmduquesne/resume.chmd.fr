@@ -75,24 +75,20 @@ Python
     persistentdicts, a library exposing various databases with Python
     dict-like interfaces.
 
-C
-    Author of lazylpsolverlibs, a set of proxy libraries targeting
-    cplex, gurobi and xpress.
+Go
+    Author of github.com/chmduquesne/rollinghash, a library of rolling
+    checksums used in syncthing and kopia. Contributor to
+    jackpal/gateway, a library for discovering the address of a LAN
+    gateway used in Tapei-Torrent.
 
 Java
     Author of talkmyphone, an android application allowing phone control
     via gtalk (10.000+ downloads, forked 50 times on googlecode). It was
     then successfully handed over to other developers.
 
-Lua
-    Author of lighttpd-external-auth, a lighttpd magnet script allowing
-    access control via mechanisms such as OpenId.
-
-Go
-    Author of github.com/chmduquesne/rollinghash, a library of rolling
-    checksums used in syncthing. Contributor to jackpal/gateway, a
-    library for discovering the address of a LAN gateway used in
-    Tapei-Torrent.
+C
+    Author of lazylpsolverlibs, a set of proxy libraries targeting
+    cplex, gurobi and xpress.
 
 Misc
     Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
@@ -113,16 +109,16 @@ Education
 
     MS in Computer Science in ENSIMAG (Grenoble, France).
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    French engineering school specialized in Applied Mathematics and
+    Computer Science.
 
 Activities and interests
 
-Hobbies
-    Backpacked in Eastern Europe, South East Asia and North America.
+Paragliding
+    Pilot since 2015.
 
-Sports
-    Ski, Paragliding, Bouldering. I also played rugby union for 7 years.
+Other sports
+    Ski, Bouldering. I also played rugby union for 7 years.
 
 Activities
     I was the president of the Grand Cercle, one of the largest French
@@ -130,6 +126,5 @@ Activities
 
 ------------------------------------------------------------------------
 
-  chmd@chmd.fr • +49 157 530 431 00 • 37 years old
-  Fraunhoferstr. 9, 80469 Munich, Germany
+  chmd@chmd.fr • +336 84 14 26 82 • 40 years old
   pdf version • txt version • doc version • html version
