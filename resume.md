@@ -60,7 +60,7 @@ Corporate Experience
     improving my communication and public speaking skills.
 
 2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](https://www.riotintoalcan.com/)*
+:   *Internship at [Rio Tinto Alcan](https://www.riotinto.com/)*
     (Clermont Ferrand, France).
 
     Authored a C++ library for optimizing the revenue of a metal factory
