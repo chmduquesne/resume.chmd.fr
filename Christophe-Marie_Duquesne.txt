@@ -72,8 +72,8 @@ Python
 
 Go
     Author of github.com/chmduquesne/rollinghash, a library of rolling
-    checksums used in the file synchronization program syncthing and in
-    the backup software kopia.
+    checksums used in the file synchronization program syncthing, in the
+    backup software kopia and in the data science platform pachyderm.
 
 Java
     Author of talkmyphone, an android application allowing phone control

@@ -79,8 +79,8 @@ Go
 :   Author of
     [github.com/chmduquesne/rollinghash](https://github.com/chmduquesne/rollinghash),
     a library of rolling checksums used in the file synchronization
-    program [syncthing](https://syncthing.net/) and in the backup software
-    [kopia](https://kopia.io/).
+    program [syncthing](https://syncthing.net/), in the backup software
+    [kopia](https://kopia.io/) and in the data science platform pachyderm.
 
 Java
 :   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone),
