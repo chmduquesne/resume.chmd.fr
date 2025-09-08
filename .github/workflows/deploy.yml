@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install pandoc
+        run: sudo apt install -y pandoc
+
       - name: Build site/artifact
         run: |
           make
