@@ -5,8 +5,7 @@
 > **Data Technology Leader**
 > \
 > \
-> Data Technology Leader with an Operations Research background. In love
-> with data driven decision making. French, living in Munich.
+> Data Technology Leader with an Operations Research background.
 
 ----
 
@@ -71,32 +70,23 @@ Open Source Contributions
 -------------------------
 
 Python
-:   Author of
-    [yaposib](https://yaposib.readthedocs.org/en/latest/index.html), a
-    Python-C++ binding to [coin-Osi](https://projects.coin-or.org/Osi).
-    Awarded [full membership](https://www.coin-or.org/members.html) in the
-    coin-or foundation in return.
-    Contributor to [pulp-or](https://pypi.org/project/PuLP/), a Linear
+:   Contributor to [pulp-or](https://pypi.org/project/PuLP/), a Linear
     Programming library. Author of
-    [flasfka](https://github.com/travel-intelligence/flasfka), an http
-    bridge for posting/getting messages to Apache Kafka. Author of
-    [persistentdicts](https://github.com/chmduquesne/persistentdicts), a
-    library exposing various databases with Python dict-like interfaces.
+    [yaposib](https://yaposib.readthedocs.org/en/latest/index.html), a
+    Python-C++ binding to [coin-Osi](https://projects.coin-or.org/Osi). 
 
 Go
 :   Author of
     [github.com/chmduquesne/rollinghash](https://github.com/chmduquesne/rollinghash),
-    a library of rolling checksums used in
-    [syncthing](https://syncthing.net/) and [kopia](https://kopia.io/).
-    Contributor to [jackpal/gateway](https://github.com/jackpal/gateway),
-    a library for discovering the address of a LAN gateway used in
-    [Tapei-Torrent](https://github.com/jackpal/Taipei-Torrent).
+    a library of rolling checksums used in the file synchronization
+    program [syncthing](https://syncthing.net/) and in the backup software
+    [kopia](https://kopia.io/).
 
 Java
-:   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone), an
-    android application allowing phone control via gtalk (10.000+
-    downloads, forked 50 times on googlecode). It was then successfully
-    handed over to [other developers](https://github.com/Yakoo63/GTalkSMS).
+:   Author of [talkmyphone](https://github.com/chmduquesne/talkmyphone),
+    an android application allowing phone control via gtalk (10.000+
+    downloads, forked 50 times on googlecode). This work was then handed over
+    to [other maintainers](https://github.com/Yakoo63/GTalkSMS).
 
 C
 :   Author of
@@ -104,9 +94,8 @@ C
     set of proxy libraries targeting cplex, gurobi and xpress.
 
 Misc
-:   Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
-    cmake...  See my [github](https://github.com/chmduquesne) account and my
-    [blog](https://blog.chmd.fr).
+:   Awarded [full membership](https://www.coin-or.org/members.html) of the
+    coin-or foundation for substantial non-monetary contributions.
 
 
 Education
@@ -137,10 +126,10 @@ Paragliding
 :   Pilot since 2015.
 
 Other sports
-:   Ski, Bouldering. I also played rugby union for 7 years.
+:   Ski, Bouldering. Played rugby union for 7 years.
 
 Activities
-:   I was the president of the [Grand
+:   Former president of the [Grand
     Cercle](https://www.grandcercle.org/), one of the largest French
     campus student associations (5.000 members) during university.
 
