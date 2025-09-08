@@ -1,0 +1,24 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: ["master"]   # or your source branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed for deploying to gh-pages
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build site/artifact
+        run: |
+          make
+
+      #- name: Deploy to GitHub Pages
+      #  uses: peaceiris/actions-gh-pages@v4
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    publish_dir: .
