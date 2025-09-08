@@ -26,3 +26,6 @@ clean:
 
 checklinks:
 	wget --spider --force-html --no-verbose -i index.html -o - | grep -B1 "broken link"
+
+servable: all
+	rm -rf *.log Christophe-Marie_Duquesne.tex *.tuc context-lmtx index.md
