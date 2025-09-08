@@ -3,8 +3,7 @@ Christophe-Marie Duquesne
 ------------------------------------------------------------------------
 
   Data Technology Leader
-  Data Technology Leader with an Operations Research background. In love
-  with data driven decision making. French, living in Munich.
+  Data Technology Leader with an Operations Research background.
 
 ------------------------------------------------------------------------
 
@@ -68,31 +67,26 @@ Corporate Experience
 Open Source Contributions
 
 Python
-    Author of yaposib, a Python-C++ binding to coin-Osi. Awarded full
-    membership in the coin-or foundation in return. Contributor to
-    pulp-or, a Linear Programming library. Author of flasfka, an http
-    bridge for posting/getting messages to Apache Kafka. Author of
-    persistentdicts, a library exposing various databases with Python
-    dict-like interfaces.
+    Contributor to pulp-or, a Linear Programming library. Author of
+    yaposib, a Python-C++ binding to coin-Osi.
 
 Go
     Author of github.com/chmduquesne/rollinghash, a library of rolling
-    checksums used in syncthing and kopia. Contributor to
-    jackpal/gateway, a library for discovering the address of a LAN
-    gateway used in Tapei-Torrent.
+    checksums used in the file synchronization program syncthing and in
+    the backup software kopia.
 
 Java
     Author of talkmyphone, an android application allowing phone control
-    via gtalk (10.000+ downloads, forked 50 times on googlecode). It was
-    then successfully handed over to other developers.
+    via gtalk (10.000+ downloads, forked 50 times on googlecode). This
+    work was then handed over to other maintainers.
 
 C
     Author of lazylpsolverlibs, a set of proxy libraries targeting
     cplex, gurobi and xpress.
 
 Misc
-    Experience with Arch Linux, Ada, Bash, Makefile, m4, autotools,
-    cmake… See my github account and my blog.
+    Awarded full membership of the coin-or foundation for substantial
+    non-monetary contributions.
 
 Education
 
@@ -118,10 +112,10 @@ Paragliding
     Pilot since 2015.
 
 Other sports
-    Ski, Bouldering. I also played rugby union for 7 years.
+    Ski, Bouldering. Played rugby union for 7 years.
 
 Activities
-    I was the president of the Grand Cercle, one of the largest French
+    Former president of the Grand Cercle, one of the largest French
     campus student associations (5.000 members) during university.
 
 ------------------------------------------------------------------------
