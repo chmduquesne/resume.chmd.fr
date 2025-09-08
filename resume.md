@@ -131,7 +131,7 @@ Other sports
 Activities
 :   Former president of the [Grand
     Cercle](https://www.grandcercle.org/), one of the largest French
-    campus student associations (5.000 members) during university.
+    campus student associations (5.000 members).
 
 ----
 
