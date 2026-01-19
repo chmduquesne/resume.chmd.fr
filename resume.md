@@ -12,7 +12,7 @@
 Corporate Experience
 --------------------
 
-2019-Now
+2019-2025
 :   *Domain Technology Officer Marketing for [Flixbus](https://flixbus.com)*
     (Munich, Germany).
 
